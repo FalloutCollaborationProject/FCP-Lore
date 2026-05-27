@@ -4,7 +4,7 @@ This mod contains lore content for the Fallout Collaboration Project, including:
 
 ## Contents
 
-- **Holotapes**: Lore heacy holotapes with stories from the wasteland, pre-war recordings, and faction specific content
+- **Holotapes**: Lore heavy holotapes with stories from the wasteland, pre-war recordings, and faction specific content
 - **Wall Terminals**: Pre-war terminals found in the world that can be hacked for rewards and holotapes
 - **Factions Content**: Special holotapes that only appear when specific faction mods are installed (BoS, Enclave, NCR, Legion, Great Khans etc (Ideally every faction when I get to them.))
 

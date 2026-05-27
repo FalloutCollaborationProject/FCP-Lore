@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <!-- About Information -->
+
+    <packageId>Rick.FCP.Lore</packageId>
+    <author>Rick</author>
+    <name>FCP - Lore</name>
+    <description>The Fallout Collaboration Project Presents: FCP Lore! Contains holotapes with stories from the wasteland and pre-war terminals with hidden data.</description>
+    <url>https://github.com/FalloutCollaborationProject</url>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>Rick.FCP.Core.Tools</packageId>
+            <displayName>FCP - Tools</displayName>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+        <li>Ludeon.RimWorld.Ideology</li>
+        <li>Ludeon.RimWorld.Biotech</li>
+        <li>Ludeon.RimWorld.Anomaly</li>
+        <li>Ludeon.RimWorld.Odyssey</li>
+        <li>brrainz.harmony</li>
+        <li>Rick.FCP.Core.Tools</li>
+    </loadAfter>
+</ModMetaData>

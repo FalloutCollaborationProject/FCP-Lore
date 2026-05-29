@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--__________ Personal Entries __________-->
+
+    <!-- Moira Browns Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_MoiraBrownLog</defName>
+        <label>Moira's Research Terminal Log - Megaton</label>
+        <description>A terminal entry from Moira Brown's research logs at Craterside Supply.</description>
+        <category>PersonalLog</category>
+        <author>Moira Brown, Megaton</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Daily Log - 09.10.2297</title>
+                <content>
+                    USER: MOIRA BROWN
+                    PASS: ***********
+
+                    Date: 09.10.2297
+
+                    Welcome, MOIRA. It is another lovely day for science!
+
+                    DAILY LOG:
+
+                    Experiment Reports:
+                    Irradiated Agriculture—Good response from mutfruit, strangely aggressive response to baseline sample. Purified water very helpful.
+                    Deathclaw Communication—No language that I can discern, unless "Mutilating assistants" counts. What would they have to say, anyway?
+                    Jefferson Purifier - Guards still refuse to allow access to see how the Purifier works. They say it's to prevent sabotage, but I think they aren't entirely certain.
+
+                    Personal Note:
+                    Just shipped out another crate of survival guides, and the caravans just can't seem to get enough of them. Sheriff Simms says they've really put Megaton on the map—pretty ironic, since I've had to redraw that map about a million times since the first edition came out 20 years ago. At least all the attention means there's no shortage of assistants, but I'm never getting another assistant like the Lone Wanderer who stumbled into my shop so long ago.
+
+                    Just about everyone in the Capital Wasteland has a story about the Lone Wanderer, even though precious few ever really knew him. But that doesn't stop them from telling crazy tall tales about how he saved their lives, or blew up a mountain, or ate a car or something. Heck, if you get Simms drunk, he'll tell you that his dad died because of the Wanderer, even though he saved the town. People can't even agree on whether the Wanderer was a man or a woman, much less a saint or a monster. But they all agree on one thing: the Lone Wanderer changed the Capital Wasteland.
+
+                    Of course, that's why I'm working on the new book, compiling the best and most useful tales of the Lone Wanderer for the next generation. It's not easy sorting out all the conflicting stories, but that'll be half of the fun for the readers. More importantly, between all of those crazy stories of bravery, barbarity, and everything in-between, we can all find a reason to keep on fighting our war for survival.
+
+                    I guess some things never change, huh?
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_MoiraBrownLog</defName>
+        <label>Moira's Research Terminal Log - Megaton</label>
+        <description>A terminal entry from Moira Brown's research logs at Craterside Supply.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_MoiraBrownLog</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Anchorage Memorial Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_AnchorageMemorial</defName>
+        <label>Anchorage Memorial - Hidden Message</label>
+        <description>A terminal entry from Anchorage Memorial with a hidden stash location.</description>
+        <category>PersonalLog</category>
+        <author>Unknown</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Message for Ted</title>
+                <content>
+                    Ted,
+
+                    Remember, I hid this stash for you to find. Don't trust anybody, especially anybody who works for me. Do this alone.
+
+                    I busted the storage door, down near the service entrance.
+
+                    There's a floor safe in the Clinic that contains the parts to fix the broken door. I also left you a repair manual, just in case you've gotten rusty, but you were always a wizard with a wrench, so I'm sure you'll be fine. Now get going.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_AnchorageMemorial</defName>
+        <label>Anchorage Memorial - Hidden Message</label>
+        <description>A terminal entry from Anchorage Memorial with a hidden stash location.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_AnchorageMemorial</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Herman Granger's Terminal - Dunwich Building -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_HermanGranger</defName>
+        <label>Herman Granger's Terminal Log - Dunwich Building</label>
+        <description>A terminal with auto-dictation software showing pre-war corporate messages and disturbing post-war entries.</description>
+        <category>PersonalLog</category>
+        <author>Herman Granger / Unknown</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>About Auto-Dictation Software</title>
+                <content>
+                    Dunwich Borers LLC
+                    Auto-dictation software © 2074 PagSoft
+
+                    Welcome, HERMAN GRANGER
+                    Available records in memory:
+
+                    .......software version is v223
+                    .......configured to user voice: H.Granger
+                    .......onomatopoeia dictation is OFF
+                    .......phonetic spelling parser is OFF (auto-correct ON)
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>AD - 10/18/2077</title>
+                <content>
+                    [10/18/2077]
+
+                    //coughing// Memo to Sales staff. In recognition of an exemplary quarter, Mr. Statham has authorized me to release sales staff early for the holidays. //unintelligible// It was no easy task to release a new acoustic borer to a market used to conventional bit-bore drilling systems, but thanks your hard work and //unintelligible//, acoustic bore drills are setting a new standard in the excavation industry. //coughing// Thanks to your many private sales and procurement of government contracts, we'll all be in the black for the foreseeable future. Happy Holidays from Mr. Statham and Dunwich Borers! Now get home to your families! //applause//
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>10/23/2077</title>
+                <content>
+                    [10/23/2077]
+
+                    //unintelligible// Rrrrrrrrrrrrrrrrrrrrbbbbbbbbbboommmmmmmmmmkkkkkkk //unintelligible// NOTICE TO USER: PagSoft LLC recommends against sustained recordings in a low-frequency environment. Continued use in this manner voids all hardware warranties. Auto-dictator v223 powering off automatically.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>10/23/2077 (2nd Entry)</title>
+                <content>
+                    [10/23/2077]
+
+                    //unintelligible// Thmmmmmmmmmmkkkkkkkaaaakkkkkkkkaaaaaaaakkkkkkmmmmm //unintelligible// NOTICE TO USER: PagSoft LLC recommends against sustained recordings in a low-frequency environment. Continued use in this manner voids all hardware warranties. Auto-dictator v223 powering off automatically.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>3/27/2134</title>
+                <content>
+                    [3/27/2134]
+
+                    //unintelligible// What the hell was that? Doesn't matter, doesn't matter. //deep breathing// Where is it? Where... Where //impact sound// //paper crumple// there, there //paper crumple// safe and sound. Jesus, they bled so much. But I kept it clean. Clean, clean clean //unintelligible// //unintelligible// shit, more. Got to move. Got to keep it safe.
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>4/27/2134</title>
+                <content>
+                    [4/27/2134]
+
+                    //deep breathing// My skin... my skin. Barely any left. One of them now, but they know I still have it. Stay back! Back, you! //deep breathing// That's close enough. //door// You, and you, too. Over there.... yes, yes. One of us, one of us. Ug-Qualtoth is returned //unintelligible//
+                </content>
+            </li>
+            <li>
+                <entryNumber>7</entryNumber>
+                <title>5/1/2134</title>
+                <content>
+                    [5/1/2134]
+
+                    //liquid dripping// Ug-Qualtoth //unintelligible// Ug-Qualtoth. I came, I came. Back this time, deep-temple //unintelligible// screaming, twisting //unintelligible// //impact sound// No light, no flesh //unintelligible// deep temple born deep temple died. Ug-Qualtoth again, //unintelligible// returned returned //unintelligible// retribution NOTICE TO USER: Internal memory capacity reached. PagSoft LLC recommends PagMem LLC for all your data storage needs. Please contact your administrator for details.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_HermanGranger</defName>
+        <label>Herman Granger's Terminal Log - Dunwich Building</label>
+        <description>A terminal with auto-dictation software showing pre-war corporate messages and disturbing post-war entries.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_HermanGranger</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Dunwich Building Terminal - Data Entry -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_DunwichTrapped</defName>
+        <label>Dunwich Building - Trapped Survivor</label>
+        <description>A desperate journal entry from a survivor trapped in the Dunwich Building.</description>
+        <category>PersonalLog</category>
+        <author>Unknown Survivor</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Data Entry</title>
+                <content>
+                    Dunwich Borers LLC
+                    Data Entry
+
+                    Here I am, trapped in a room by myself typing on a terminal trying to keep myself busy. Hell trying to keep myself sane. I don't know what it is about this place, but I want to get out of here. Yeah, get out of here -- I can't even bring myself to open that damn door again. I hear those things wandering around outside, sniffing, screaming, doing whatever they do. When I first got here I thought the place was abandoned and went around looking for anything to scavenge. Five minutes later, I'm in this room scared half out of my mind. Things started chasing me, I fired a few shots, missed, and ran through the darkness. Ahh shit. Told ol' Billy to meet me here and bring some extra ammunition and grenades. That was three days ago, poor guy probably didn't make it too far. Those things better have given him a quick death. Listen to me, babbling like a damn fool. Billy's all right. I'll just stick here until those things go away and meet up with him. Hah, what a story I have for him.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_DunwichTrapped</defName>
+        <label>Dunwich Building - Trapped Survivor</label>
+        <description>A desperate journal entry from a survivor trapped in the Dunwich Building.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_DunwichTrapped</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Doctor Lesko's Terminal - Marigold Station -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_DoctorLesko</defName>
+        <label>Doctor Lesko's Terminal - Marigold Station</label>
+        <description>Doctor Lesko's personal terminal from his office in Marigold metro station documenting his genetic research on giant ants.</description>
+        <category>ScientificData</category>
+        <author>Doctor Lesko</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Where did I go wrong?</title>
+                <content>
+                    Personal notes
+                    Where did I go wrong?
+
+                    Batch A27 is a complete failure. I must return to my original formulas and begin the process all over again. Perhaps the pressure of working in these conditions without proper laboratory equipment is to blame, perhaps I simply didn't splice the correct genetic instructions or perhaps I am fatigued. Whatever the case may be, A27 is proving to be a disaster. I must introduce a new formula soon or I may not be alive to see my hypothesis come to fruition.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Sample location discovered!</title>
+                <content>
+                    Sample location discovered!
+
+                    I've found the perfect specimen for my experiments inside Marigold station! I've set up shop underground for now while I prepare the experiment. All I need is a bit of last-minute programming on my robot and it will be ready to perform the delicate injections. Soon I will prove to everyone that my formula is a viable alternative to the destruction of these misunderstood beings.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Dangers</title>
+                <content>
+                    Dangers
+
+                    I realize the dangers involved in tampering with nature. I've heard the rhetoric and the hoopla about "playing God". However, I am determined to reduce these poor things back to their original state when they were harmless. Only through genetic recoding is this possible. All that is needed is a proper test subject. My search continues as I tweak the formula.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_DoctorLesko</defName>
+        <label>Doctor Lesko's Terminal - Marigold Station</label>
+        <description>Doctor Lesko's personal terminal from his office in Marigold metro station documenting his genetic research on giant ants.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_DoctorLesko</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Doctor Lesko's Portacomp - Hatchery Control -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_LeskoHatchery</defName>
+        <label>Doctor Lesko's Portacomp - Hatchery Control</label>
+        <description>Doctor Lesko's portable computer terminal from the queen ant's hatchery in Marigold station with experimental controls.</description>
+        <category>TechnicalManual</category>
+        <author>Doctor Lesko</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Send Inhibitor Pulse</title>
+                <content>
+                    Hello, Doctor Lesko.
+                    What can I do for you today?
+
+                    Send Inhibitor Pulse
+
+                    Pulse Sending
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Destroy Mutagen Sample</title>
+                <content>
+                    Destroy Mutagen Sample
+
+                    Neutralizing Agent Added-Mutagen Destroyed
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Synthesize New Mutagen Formula</title>
+                <content>
+                    Synthesize New Mutagen Formula
+
+                    Error - Requires Master Cypher Sequence
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_LeskoHatchery</defName>
+        <label>Doctor Lesko's Portacomp - Hatchery Control</label>
+        <description>Doctor Lesko's portable computer terminal from the queen ant's hatchery in Marigold station with experimental controls.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_LeskoHatchery</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- W. Brandice's Terminal - Grayditch -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_WBrandice</defName>
+        <label>W. Brandice's Terminal Log - Grayditch</label>
+        <description>W. Brandice's terminal log from Grayditch chronicling his family's struggle against fire ants and his past with the Enclave.</description>
+        <category>PersonalLog</category>
+        <author>W. Brandice</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>6-17-2277</title>
+                <content>
+                    6-17-2277
+
+                    I can't believe I went through all that trouble to leave Navarro and make my way across the country just to get stuck in this shithole. I'll be damned if I'm going to die here.
+                    Now that we're cut off from Lesko and Wilks, I think we're on our own. The damn ants keep trying to find a way to get inside the house. Even as I'm typing this, I can hear them scraping the walls looking for a way through. I don't know how much longer we can last.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>4-02-2277</title>
+                <content>
+                    4-02-2277
+
+                    I'm going to have to find a better way to protect Sheila and Will from those ants. Ever since Lesko came to town, I'm certain they're getting more and more aggressive. Wasteland ants are bad enough, but at least you could run away from them. These would seem to pursue you to the ends of the earth if they could. Call me crazy, but I swear I saw one start a fire the other day. I don't know how this could be happening.
+                    I've decided to dig up my old sidearm and keep it hidden on me at all times. If those things get too close, I'll blast the antennae right off their ugly heads.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>2-24-2277</title>
+                <content>
+                    2-24-2277
+
+                    These ants are becoming a real pain in the ass. So much so that I had to take a trip to Megaton and buy a better gun to protect my family. It cost me a small fortune...I had to trade every bit of ant meat I had collected, but it was worth it. I'm teaching Frank and Sheila to use it just in case something happens to me. If one of you are reading this, and I'm gone, I keep the gun in the kitchen behind the old fridge.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>11-15-2276</title>
+                <content>
+                    11-15-2276
+
+                    Some scientist named Lesko moved in with the Wilks family across the street. They are helping him make some sort of a structure on the old lot near the diner. Lesko offered to pay me caps if I helped, but I declined. I dunno who he's working for, but I don't think they're still looking for me.
+                    Our supplies are running low, and I need to begin foraging for food and some better drinking water. I'd have an easier time if it wasn't for the damn ants. I swear they have a nest around here somewhere.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>10-30-2276</title>
+                <content>
+                    10-30-2276
+
+                    I was scavenging some of the near buildings for junk to sell and came across a working radio. No sooner did I turn it on than I heard the familiar patriotic anthems they used to play whenever Richardson would give a speech. But this was different. Who the hell is President Eden? When did that happen? Are they on this coast too? Most importantly, will they come looking for me?
+                    I hope this journey wasn't a huge mistake.
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>10-02-2276</title>
+                <content>
+                    10-02-2276
+
+                    I've finally found a quiet place for my family. We've been running from one settlement to the next, just trying to keep out of sight. Now that I'm on the other coast, I feel mush safer.
+                    The family across the way from us seems pretty decent. Their kid, Bryan, likes to play with my son, which is great. It's hard for Will to make friends because we haven't stayed in one place long enough. Maybe we can finally put down some root here in Grayditch.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_WBrandice</defName>
+        <label>W. Brandice's Terminal Log - Grayditch</label>
+        <description>W. Brandice's terminal log from Grayditch chronicling his family's struggle against fire ants and his past with the Enclave.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_WBrandice</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Hamilton Hideaway Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_HamiltonHideaway</defName>
+        <label>Hamilton Hideaway - Shelter Log</label>
+        <description>Personal terminal log from Hamilton's family shelter documenting survival after the Great War.</description>
+        <category>PersonalLog</category>
+        <author>Hamilton Family</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>July 19, 2077</title>
+                <content>
+                    July 19, 2077
+
+                    Finally done. Maggie wanted us to sign up at a Vault-Tec shelter, but I've never trusted those bastards. It took a lot of work, but Frank helped me get all the parts together and hauled out to the acreage to build this shelter. Air filtration, chemical toilets, artesian well, the whole nine yards. Frank's connections got us the generator cheap, too. And we don't have to worry about sharing quarters with whoever got their name on some waiting list when the day comes.
+
+                    Wish I could say "if" the day comes, but it just seems like a matter of time now. How could it have come to this?
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>December 24, 2077</title>
+                <content>
+                    December 24, 2077
+
+                    Robin wanted to play with the computer for Christmas, so I siphoned some juice from the fusion generator to power this old thing. I know she'd rather be playing outside in the snow, but she's a good kid. Knows that we can't go outside yet. I'll check the fallout levels again tomorrow while she's playing, but I doubt we'll be heading out anytime soon. Damn commies must have hit us hard.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>December 25, 2077</title>
+                <content>
+                    December 25, 2077
+
+                    MARRY CHRISMAS!
+
+                    Cute kid, huh?
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>February 13, 2078</title>
+                <content>
+                    February 13, 2078
+
+                    Don't believe it. Frank showed up today. He was on a sales trip when the blast hit, selling generators to a mining operation in Pennsylvania. Being in those shafts probably saved his life, but the shock wave also knocked out every power line feeding them light and air. Falling debris killed the foreman standing right next to him. He doesn't even know how long he was crawling around those tunnels before he got outside, the poor bastard.
+
+                    Sounds like the water's boiling. Some hot soup will do him good, even if it's that powdered crap we hauled in here last year.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>February 14, 2078</title>
+                <content>
+                    February 14, 2078
+
+                    Frank's in bad shape, arms and face are all burned up. He's got a lot of blisters that look infected. He went through hell out there. Hardly anybody alive, and those he met almost did him in. He tried getting into a Vault near Burkittsville. They wouldn't open up and he was almost killed in an ambush on his way out of there. He said those folks wore skins of men. Cannibal bastards must just wait for their next meal to come looking for help at the Vault. Frank steered clear of them and headed straight here after that. He's been on his feet for weeks.
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>February 28, 2078</title>
+                <content>
+                    February 28, 2078
+
+                    His hair was falling out within a week of him showing up. I wanted to believe we could save him, but there's no way a few iodine tablets a day was going to reverse the radiation he must have been exposed to out there. He was a good man. He deserves better, but I can't go out there and give him a proper burial. Maggie's going to stay up with Robin and let her play some holotapes loud tonight. That's when I'll take Frank in the back and cremate him. I wish our furnace was big enough to hold him in one piece. God help us. How could it have come to this?
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_HamiltonHideaway</defName>
+        <label>Hamilton Hideaway - Shelter Log</label>
+        <description>Personal terminal log from Hamilton's family shelter documenting survival after the Great War.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_HamiltonHideaway</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Isabella Proud's Terminal - Irradiated Pool Research -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_IrradiatedPool</defName>
+        <label>Irradiated Pool - Research Log</label>
+        <description>Scientific field journal documenting behavioral research on feral ghouls at an irradiated pool site.</description>
+        <category>ScientificData</category>
+        <author>Isabella Proud</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Day 45</title>
+                <content>
+                    Journal-It Software 2072 PagSoft
+                    Isabella Proud's Journal
+
+                    Day 45:
+
+                    Jason found a terminal suitable to our needs in the nearby ruins. With some work, we may be able to move this workstation closer to where our research has been taking place. Must keep an eye out for a portable source of power. Must remember to translate my notes onto this thing when I have some time to do so.
+
+                    While Jason was scavenging the ruins, I caught a glimpse of the group by the pool in the afternoon. Contrary to what most people think, they don't fear the daylight at all, but they do seem to prefer indoor habitats.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Day 51</title>
+                <content>
+                    Day 51:
+
+                    I've conducted an informal experiment this week. I've filled some heavy basins with water, each with different levels of radiation. Consistent with my predictions, they seem to prefer water with high rad content. Thanks to these radiation suits, I was able to irradiate one of the basins with a typically lethal level of radiation, and to my amazement, this has worked better than any of our attempts at constructing a lure to attract them into our research area. This is very exciting!
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Day 53</title>
+                <content>
+                    Day 53:
+
+                    Jason's recovered and repaired a generator, which should allow us to move this terminal and some of my equipment out to a better position for observation of the group's behavior.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Day 58</title>
+                <content>
+                    Day 58:
+
+                    Amazing! Today I was approached by one of them. I've decided to call her "Melinda." I'm not actually sure if there's a way to establish gender, but Melinda moved in a way that appeared very feminine to me. She caught me off guard while I was checking water levels in the experimental basins. For a moment there, I wished I had taken that damned pistol Jason insisted upon me carrying. She grasped my arm, but instead of attacking, she appeared to sniff my arm where some of the scavenged resin I've been using to irradiate the basins had spilled on my suit. Moments later, she was gone. Must consider some way of tagging them.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>Day 63</title>
+                <content>
+                    Day 63:
+
+                    No sign of the group for days. Could Melinda have returned to the group with some news of our brief encounter? Perhaps they're scared of us?
+
+                    Jason's beginning to get concerned, but I believe we're close to learning what we came here for. The poor man's been through Hell for me. I don't know if I could have achieved so much without him, but there's so much left to learn.
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>Day 67</title>
+                <content>
+                    Day 67:
+
+                    I insisted on sleeping at the research site last night, much to Jason's protest. I'm sure I saw motion in the far ruins, but the moon had slid behind a cloud, so I couldn't make out for certain their shapes. I don't think mutants would have moved like that, and most people in the city know enough to hunker down at night. Could it have been our group, returning home?
+                </content>
+            </li>
+            <li>
+                <entryNumber>7</entryNumber>
+                <title>Day 68</title>
+                <content>
+                    Day 68:
+
+                    Slept outdoors again last night. Jason insisted on staying with me this time, and built a camouflage screen for us to sleep in. I irradiated the main body of water as heavily as I could to try and draw them out. My plan seems to have worked, because I saw few - I think Melinda was among them - come into the open at dusk and settle into the water. After dark, one I believe to be the alpha male - I've called him "Samuel" - emerged with the rest of the group. I had to switch my geiger counter off when he arrived to avoid being heard. I can't imagine the radiation levels the glowing ones must be infused with. I think that must be why he's the alpha - the others are so drawn to him because of his immense irradiation.
+                </content>
+            </li>
+            <li>
+                <entryNumber>8</entryNumber>
+                <title>Day 75</title>
+                <content>
+                    Day 75:
+
+                    I need to make contact again. I've coated my suit in resin, and will try approaching the group tomorrow at dusk. Observation hasn't revealed anything new; direct contact is required if I'm going to continue to learn about them. I know Jason would never understand, but this won't work if his suit isn't also irradiated. I'll coat it while he's gone scavenging during the afternoon, and we'll set up camp tonight by the water before dusk.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_IrradiatedPool</defName>
+        <label>Irradiated Pool - Research Log</label>
+        <description>Scientific field journal documenting behavioral research on feral ghouls at an irradiated pool site.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_IrradiatedPool</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Hilltop Farm Community Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_HilltopFarm</defName>
+        <label>Hilltop Farm - Community Log</label>
+        <description>Shared community terminal log from Hilltop Farm documenting post-war farm life and survival.</description>
+        <category>PersonalLog</category>
+        <author>Hilltop Farm Community</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Entry: Edgar</title>
+                <content>
+                    I finally got everyone to agree to let me set up some generators for power. I can understand their nerves, considering what technology did to us all, but not making use of every resource is wasteful, and a sure path to Hell in this situation. Coming out into the light has done wonders for everyone, but we all can get a little stir crazy, even out here. I'm setting this thing up for everyone to use.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Entry: Rochelle</title>
+                <content>
+                    We set up an irrigation system! Thank God for Miles' experience on the farm - I never would have thought of this on my own, but what a great idea. I really thought this ground was useless, but the stuff he had us plant in the dirt we dug up is actually sprouting, and the little rivers keep it all nice and wet.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Entry: Tyrone</title>
+                <content>
+                    My turn to be boss this month. Seems stupid to me, I don't want to be in charge. I'm just going to do whatever Jim tells me to.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Entry: Doc J</title>
+                <content>
+                    I want to remind everyone to come by my tent every day for your radiation screening. Even if you don't think you've been exposed to radiation, the test takes only minutes. Take my word for it; you'd much rather be inconvenienced in the morning than come down with a case of radiation sickness. I'm more than happy to give a detailed account of that scenario to the next person who misses an appointment.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>Entry: Tyler</title>
+                <content>
+                    my name is ty an i'm a big dum hed!!!
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>Entry: Tyler</title>
+                <content>
+                    Hey Rochelle, remind me what a big stupid head I am the next time you need me to repair you and Vu's distillers, okay? What gives, Edgar? Can't you put a password on this thing?
+                </content>
+            </li>
+            <li>
+                <entryNumber>7</entryNumber>
+                <title>Entry: Jim</title>
+                <content>
+                    Been a good few months for us since the coming out. Going by the dosimeter tests, we're taking some exposure to radiation, but as long as Doc Johanson keeps folks on their meds, we don't seem to be having trouble with rad sickness. Irrigation and fertilization has been good, and though we lost the goats and chickens, the cows have done good. Those hardy beasts don't seem to mind this new world. Miles and Jacky are devoting some time to husbandry to keep the cows breeding and available.
+                </content>
+            </li>
+            <li>
+                <entryNumber>8</entryNumber>
+                <title>Entry: Edgar</title>
+                <content>
+                    I'm trying to fabricate a windmill for us. If anybody spots any long, flat sheets of metal, you let me know. I have most of the other parts I need, but haven't found good metal for the blades yet.
+                </content>
+            </li>
+            <li>
+                <entryNumber>9</entryNumber>
+                <title>Entry: Jim</title>
+                <content>
+                    Nobody ought concern themselves too much with Miguel's scouting report. While he did spot some folk out past the valley, they rode by and weren't like to have noticed him or us. Let's all just keep to the homestead for a few days and avoid using open fires for a few days, just to be safe.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_HilltopFarm</defName>
+        <label>Hilltop Farm - Community Log</label>
+        <description>Shared community terminal log from Hilltop Farm documenting post-war farm life and survival.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_HilltopFarm</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Jefferson Memorial - Scribe Bigsley's Personal Log -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_BigsleyPersonalLog</defName>
+        <label>Jefferson Memorial - Scribe Bigsley's Personal Log</label>
+        <description>Private diary entries from Scribe Bigsley documenting his mental decline during the water distribution mission.</description>
+        <category>PersonalLog</category>
+        <author>Scribe Bigsley</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Day One</title>
+                <content>
+                    This place is a total disaster. Hopefully I'll get this distribution system set up soon and I can get back to the Citadel. Shouldn't take more than two weeks. I've already been in consultation with the Rivet City Council. They have tentatively agreed to take over the Water Distribution Network for us once we've worked out the kinks. Something tells me there's going to be more than a few of those.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Incompetence</title>
+                <content>
+                    I think Rothchild is really upset with me this time. He sent me Scribes who apparently failed their Cartography training. I don't have time for this.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Work with me, people</title>
+                <content>
+                    I'm getting practically no cooperation. Rothchild ignores my messages. And the Knights stuck with delivery duties are more than a little resentful. I don't want to have to send them out anymore than they want to go.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Dr. Li</title>
+                <content>
+                    Dr. Madison Li left today. Went up north to the Commonwealth. What a bitch. She couldn't handle the fact that even these morons Rothchild sent me were capable of improving upon her work. It's no wonder she never got the thing working without help in the first place. Anyway, to hell with Dr. Li. Good riddance.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>First Casualty</title>
+                <content>
+                    First casualty reported today. I know compared to the death tolls of the war it will barely register back at the Citadel. But still I hate being responsible, even indirectly, for another man's death. It brings back unpleasant memories.
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>MIA</title>
+                <content>
+                    So many caravans missing in action. The Rivet City escorts I can understand. They haven't had much blooding, holed up in that boat of theirs. Sure, I've gotten more Initiates than full fledged Knights, since it's all hands in war. But still, even a couple of heavily armed Initiates should be able to handle escorting a mule and driver across the wastes.
+                </content>
+            </li>
+            <li>
+                <entryNumber>7</entryNumber>
+                <title>Griffon</title>
+                <content>
+                    So this Ghoul from Underworld, Griffon, offered to pay me for shipments of water. Lyons wouldn't approve, but I don't care. We need the caps and the technology he's offering. I can use it to fund the other deliveries.
+
+                    One day Lyons will come to his senses and agree that selling the water is the smartest thing. Let supply and demand fuel the delivery system. This bleeding heart charity of his is going to bring down the Brotherhood. We're at war! We shouldn't be expending resources on delivering water. At any rate, we can do that after we wipe out the Enclave. Sometimes I wonder if Lyons has gone senile.
+
+                    I should delete this entry in case someone important audits my files. Ah, screw it. It might be time for me to leave the Brotherhood, anyway. Not sure where'd I go, though.
+                </content>
+            </li>
+            <li>
+                <entryNumber>8</entryNumber>
+                <title>Where are they?</title>
+                <content>
+                    Where the hell is everyone? So many caravans still MIA.
+
+                    Lepelletier keeps sending me dispatches requesting additional resources. I don't have anything for her. Not sure they'll be able to handle this water distribution after all. Great. I'll be stuck here forever.
+                </content>
+            </li>
+            <li>
+                <entryNumber>9</entryNumber>
+                <title>Megaton</title>
+                <content>
+                    I'm ignoring Megaton's requests for more water until I can determine what the hell happened. The caravan reported in, successful. I have no reason to doubt the report.
+
+                    Heard that the kid who helped start the Purifier finally woke up.
+                </content>
+            </li>
+            <li>
+                <entryNumber>10</entryNumber>
+                <title>Missing Shipments</title>
+                <content>
+                    I think Lyons suspects something. He must have a plant here. How the hell would he know about the "missing" water shipments? I've been stonewalling him. How the hell does he have time to worry about us with that war going on?
+                </content>
+            </li>
+            <li>
+                <entryNumber>11</entryNumber>
+                <title>Project Purity Scientists</title>
+                <content>
+                    I'm seriously considering murdering these Project Purity lab coats. Ungrateful, whining, good-for-nothing, bothersome ingrates the lot of them.
+                </content>
+            </li>
+            <li>
+                <entryNumber>12</entryNumber>
+                <title>Leak</title>
+                <content>
+                    I wish somebody would fix that leak! The dripping is driving me crazy!
+                </content>
+            </li>
+            <li>
+                <entryNumber>13</entryNumber>
+                <title>So tired...</title>
+                <content>
+                    I dno't rember teh last time I slept for more than tihrty minutes. I'm so damn tired jkhkjksdfg sdfgssdfgsd ha. apparently I just nodded off and hit my face on the keyboard. I can't take this anymore!!!!11!!
+                </content>
+            </li>
+            <li>
+                <entryNumber>14</entryNumber>
+                <title>New Personal Mantra</title>
+                <content>
+                    I give up. This is hopeless.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_BigsleyPersonalLog</defName>
+        <label>Jefferson Memorial - Scribe Bigsley's Personal Log</label>
+        <description>Private diary entries from Scribe Bigsley documenting his mental decline during the water distribution mission.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_BigsleyPersonalLog</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Jury Street Tunnels - Ryan Brigg's Journal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_RyanBriggs</defName>
+        <label>Jury Street Tunnels - Ryan Brigg's Journal</label>
+        <description>Research journal from Ryan Brigg documenting his experiments to make molerat meat edible while masquerading as a raider.</description>
+        <category>PersonalLog</category>
+        <author>Ryan Brigg</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Attempt 86</title>
+                <content>
+                    Journal-It Software 2072 PagSoft
+                    Ryan Brigg's Journal
+
+                    Attempt 86:
+
+                    I introduced a small component of isoprene, didn't seem to make a difference in taste or composition. I'm not hopeful, but in the next round I'll increase the concentration, if only because the damn stuff is so plentiful.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Attempt 87</title>
+                <content>
+                    Attempt 87:
+
+                    The molerats are starting to get more aggressive. I think we will have to push back our checkpoints a bit to make up for it. I wonder if my experiments with isoprene have somehow triggered their sudden increase in aggression. I wouldn't be so worried about it if I had something to show for it. There's got to be some way to make this meat taste better.
+
+                    Chucky won't shut up about the one he kept as a pet being eaten by the others. I think I'll shoot him, that sort of thing seems to impress these raider types.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Attempt 171</title>
+                <content>
+                    Attempt 171:
+
+                    I've noticed positive reactions with base dextrin substances. I'll continue testing different forms to see where it leads me. If there was ever a time for a breakthrough it would be right now. Masquerading as one of these foul murderers grows tiring, once the theatrics of it wear off. One thing is true, though - we can all be rich if the experiment succeeds. Molerat is one of the easiest meats to get hold of, yet the most disgusting. If I can turn it into a viable food source...
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Attempt 172</title>
+                <content>
+                    Attempt 172:
+
+                    Quite close now. I'm fairly certain the key ingredient is some form of ThermoStarch. My next attempt will be using Wonder Glue, the adhesive component contains a great deal of the stuff. Luckily we have a small store of the stuff available here, and I'm offering a handful of caps to the raiders for every bottle they can bring me. Those greasy villains are handy when you've got the money.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>Attempt 173 - Final Entry</title>
+                <content>
+                    Attempt 173:
+
+                    I've finally done it! Who would have thought that the simple combination of Mole Rat Meat and Wonder Glue would have been the answer? Curing the mixture together in a metal box produces a sort of jerky that is very pleasant to the palette, chewy with a nutty taste. The usual toughness and bitter flavor of molerat is completely undetectable.
+
+                    Further, I find that the meat has restorative properties. A man who eats a meal of this concotion will find himself feeling positivley buoyant and anxious to move about.
+
+                    I'll be able to charge even more for it than I was originally planning. The only thing left to do is set up shop in one of the towns on the surface. None too soon! These filthy raiders have been my bane, and after these long months, I'm as destitute as the worst of them.
+
+                    Odd, that's the alarm.
+
+                    Begin MemWipe()
+                    User-Initiated memory protocol
+                    Beginning storage clear, oldest archives first.
+                    Press any button to interrupt.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_RyanBriggs</defName>
+        <label>Jury Street Tunnels - Ryan Brigg's Journal</label>
+        <description>Research journal from Ryan Brigg documenting his experiments to make molerat meat edible while masquerading as a raider.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_RyanBriggs</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Elise Walton's Terminal - Falls Church -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_EliseWalton</defName>
+        <label>Elise Walton's Terminal - Falls Church</label>
+        <description>Final terminal entry from Elise Walton, a CPA at the GAO, written as the bombs fell on October 23, 2077.</description>
+        <category>PersonalLog</category>
+        <author>Elise Walton</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Final Entry</title>
+                <content>
+                    I don't know what's happening. The sirens went off twenty minutes ago and I hear something like thunder in the distance. We're not allowed to leave the building and I can't see what's happening in the street. I'm scared... I think this might be it. Everything that we've been building up for. This might be the last thing I ever write, so to whoever finds it, if I don't make it tell my family that I love them.
+
+                    Elise Walton
+
+                    CPA
+                    GAO, Dept. of Research Subsidies
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_EliseWalton</defName>
+        <label>Elise Walton's Terminal - Falls Church</label>
+        <description>Final terminal entry from Elise Walton, a CPA at the GAO, written as the bombs fell on October 23, 2077.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_EliseWalton</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Red Racer Factory - Surgeon's Experiments -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_RedRacerSurgeon</defName>
+        <label>Surgeon's Terminals - Red Racer Factory</label>
+        <description>Diary entries from a rogue surgeon at Red Racer factory documenting control chip experiments on ghouls and super mutants.</description>
+        <category>PersonalLog</category>
+        <author>Unknown Surgeon</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Diary Entry L-2</title>
+                <content>
+                    Chip broadcast terminal
+
+                    Diary Entry L-2
+
+                    I have used materials from the small explosive cache I found to further safeguard myself from my experiments.
+
+                    I have wired the building to broadcast a signal from this terminal that in emergency will detonate all chips. I pray that day never comes.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Entry 2R-A0 - The First Ghoul Chips</title>
+                <content>
+                    Surgeon's notes
+
+                    Entry 2R-A0
+
+                    Diary Entry 2R-A0: The first ghoul chips
+
+                    Some of my earlier chip prototypes (C6-A and C6-L) have started to malfunction causing the chips to overheat and eventually detonate the implanted charge. In retaliation I have upgraded the P7 series and above to counter the malfunction. I have also altered the Y2 series in the mutant as a precaution. Ghouls are easily replaceable, mutants are not.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Entry 64D-A3 - Mutant Chips</title>
+                <content>
+                    Entry 64D-A3
+
+                    Diary Entry 64D-A3: Mutant Chips
+
+                    I have had to alter the chips for the mutants to account for their greater size. Fortunately, they exhibit a higher intellect than the ghouls and can be controlled to an even greater extent. The enthralled mutants have mentioned legends of even larger mutants, almost twice as big as the one I've captured. If only I could get my hands on one of those the experiments the fun.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Diary Entry 07-C - Stefan</title>
+                <content>
+                    Surgeon's terminal
+
+                    Notes on Stefan
+
+                    Diary Entry 07-C: Stefan
+
+                    My masterpiece! Stefan is now under my control! The latest chip I installed in him seems to have taken and he is now mine. The effort to capture one of these glowing ghouls was immense but finally I can take solace in the fact that I have one under my control. His limited intellect means I will have to keep him downstairs with the rest of the ghouls but I pity any rabble that pokes their head in here now.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_RedRacerSurgeon</defName>
+        <label>Surgeon's Terminals - Red Racer Factory</label>
+        <description>Diary entries from a rogue surgeon at Red Racer factory documenting control chip experiments on ghouls and super mutants.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_RedRacerSurgeon</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Seagrave Holmes' Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_SeagraveHolmes</defName>
+        <label>Seagrave Holmes' Terminal - Rivet City</label>
+        <description>Personal terminal from Seagrave Holmes with weapon design ideas and political correspondence with Doctor Li.</description>
+        <category>PersonalLog</category>
+        <author>Seagrave Holmes</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Survival Weapon Idea</title>
+                <content>
+                    Welcome to the Rivet City computer system.
+                    What would you like to do today?
+
+                    Survival Weapon Idea
+
+                    Had an idea for a survival weapon. There are all these railroad spikes laying around the wasteland. I ought to be able to build some sort of slingshot to fire them like bullets. I tried some really big rubber bands, but that didn't work. I wonder if I could use steam as a power source?
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Bannon</title>
+                <content>
+                    Bannon
+
+                    Doctor Li,
+
+                    We both know that Bannon does not have the best interests of Rivet City at heart. He is only interested in making a profit. He would sell his own children, if he had any, for an extra bottle cap. He needs to be removed. I would be glad to step forward as his replacement.
+
+                    Sincerely,
+                    Seagrave Holmes
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>RE: Bannon</title>
+                <content>
+                    RE: Bannon
+
+                    Seagrave,
+
+                    I do not wish to get pulled down into petty political bickering. Bannon has not done anything wrong. If the time ever comes when he does something truly harmful to Rivet City, the other council members will look into it. Until then, I have a lab to run.
+
+                    Yours,
+                    Doctor Madison Li
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_SeagraveHolmes</defName>
+        <label>Seagrave Holmes' Terminal - Rivet City</label>
+        <description>Personal terminal from Seagrave Holmes with weapon design ideas and political correspondence with Doctor Li.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_SeagraveHolmes</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Pinkerton's Computer -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_Pinkerton</defName>
+        <label>Pinkerton's Computer - Rivet City</label>
+        <description>Private computer from Doctor Pinkerton with Rivet City founding records and android experiment logs.</description>
+        <category>PersonalLog</category>
+        <author>Doctor Horace Pinkerton</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>City Founders Log</title>
+                <content>
+                    You better have permission to be using this computer.
+
+                    City Founders Log
+
+                    April 25, 2239
+                    Inaugural Meeting of the Rivet City Council
+
+                    In attendance:
+                    Science Rep. - Dr. Horace Pinkerton
+                    Civilian Rep. - Annette Holmes
+                    Security Rep. - Brad Danvers
+
+                    Summary:
+                    As the Rivet Station Science Outpost has displayed significant stability in its location and reliable profitability for supply traders, a burgeoning civilian settlement has sprung up in the available space on our ship.
+
+                    To better protect and organize this growing community, we declare a three man council will act as a governing body to represent the interests of the residents of the newly dubbed "Rivet City."
+
+                    > Downloading... complete.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Android Log 1</title>
+                <content>
+                    Android log 1
+
+                    Hah! I've done it. I've built a Circuit Neuralizer from spare parts using the diagrams rescued from that vault last year. I'm brilliant! I'll show those hacks from the Commonwealth now!
+
+                    > Downloading... complete.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Android Log 2</title>
+                <content>
+                    Android log 2
+
+                    I stole the mem chip from that jerk Braun. Where does he get off robbing people of their souls like that. Anyway, he's so involved in that simulation of his, that breaking in and taking it was like stealing from a little girl. Of course, I won't know whose memories are on this thing until I integrate it into its new host. But they never specified, so it shouldn't really matter. I can't wait until the subject arrives.
+
+                    > Downloading... complete.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Android Log 3</title>
+                <content>
+                    Android log 3
+
+                    I got those memories into that Android like I was God sending down messages from Heaven. Calls himself "Harkness" now. Thinks he's an old combat veteran. Did a little extra tinkering with his reflex system. He's certainly not someone I'd want to meet in a fight. When he "woke up" he was all confused. We told him he was in a coma for a long time. Between the new memories and the new face I gave him, there isn't anyone that would recognize him. Not even himself!
+
+                    > Downloading... complete.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_Pinkerton</defName>
+        <label>Pinkerton's Computer - Rivet City</label>
+        <description>Private computer from Doctor Pinkerton with Rivet City founding records and android experiment logs.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_Pinkerton</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Doctor Li's Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_DoctorLi</defName>
+        <label>Doctor Li's Terminal - Rivet City</label>
+        <description>Personal terminal from Doctor Madison Li documenting hydroponics research progress and council meeting records.</description>
+        <category>PersonalLog</category>
+        <author>Doctor Madison Li</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Hydroponics Progress</title>
+                <content>
+                    Welcome to the Rivet City computer system.
+                    What would you like to do today?
+
+                    Hydroponics Progress
+
+                    The RC hydroponics have been restored to basic functionality - easy enough after all our research. The limited amount of clean water we can produce is enough for growing basic foodstuffs.
+
+                    Still no progress on any mass-purification tests, and with all of the maintenance that has to be done around here, there's hardly any time to attempt new experiments.
+
+                    In any case, RC wouldn't work as a location for truly large scale decontamination. The infrastructure just isn't here, and the idea of recreating it again is too daunting to convince the rest of the council.
+
+                    And that's even if the process worked.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_DoctorLi</defName>
+        <label>Doctor Li's Terminal - Rivet City</label>
+        <description>Personal terminal from Doctor Madison Li documenting hydroponics research progress and council meeting records.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_DoctorLi</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Herbert Dashwood's Exploration Database -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_DashwoodDatabase</defName>
+        <label>Exploration Database - Tenpenny Tower</label>
+        <description>Herbert Dashwood's personal database documenting his adventures, companions, and discoveries across the Capital Wasteland.</description>
+        <category>PersonalLog</category>
+        <author>Herbert "Daring" Dashwood</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Greeting</title>
+                <content>
+                    Hello, Daring! May the twilight of your life be filled with the same wonder and adventure as your youth.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>People - King Crag</title>
+                <content>
+                    People
+                    King Crag
+
+                    Good Ole' Craggy, King of Rockopolis.
+
+                    He offered Argyle and me shelter back in the summer of '48. Unfortunately, there was a little incident with his daughter, and we were exiled.
+
+                    We sought shelter again a couple years later, but Craggy didn't take to kindly to us luring the Slavers into his hidden underground city.
+
+                    That was the last time I ever saw Argyle -- right after he saved my hide for the hundredth time.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>People - Miss Penelope Chase</title>
+                <content>
+                    Miss Penelope Chase
+
+                    Miss Penelope Chase -- Two-timing bitch. She got what she deserved.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>People - Destiny Chao</title>
+                <content>
+                    Destiny Chao
+
+                    My dearest Destiny.
+
+                    Harlot par excellence and the proprietor of the Blue Destiny Brothel. One of the loveliest women I've ever had the pleasure to pleasure.
+
+                    Sadly, she died from cholera in the summer of '49 (an event that closed down the brothel forever).
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>People - Argyle</title>
+                <content>
+                    Argyle
+
+                    The best manservant a guy could ask for.
+
+                    Tough, loyal, and a hell of a good friend (even if he did smell like a bag of rotten meat, but what's a Ghoul gonna do?).
+
+                    The last time I saw Argyle was in Rockopolis, decades ago. I know he's still out there... somewhere.
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>People - Harmon Jurley</title>
+                <content>
+                    Harmon Jurley
+
+                    Slaver leader and psychotic cannibal, circa 2250. See entry on Paradise Falls.
+                </content>
+            </li>
+            <li>
+                <entryNumber>7</entryNumber>
+                <title>Places - Paradise Falls</title>
+                <content>
+                    Places
+                    Paradise Falls
+
+                    The most dangerous dump in the Capital Wasteland.
+
+                    The Slavers there would have bought and sold anything with a pulse. They still will, from what I hear.
+
+                    Back in my day, they were more disorganized, though. Their leader was a guy named Harmon Jurley, a psychotic son of a bitch who was rumored to eat the slaves he couldn't sell.
+                </content>
+            </li>
+            <li>
+                <entryNumber>8</entryNumber>
+                <title>Places - Rockopolis</title>
+                <content>
+                    Rockopolis
+
+                    An underground city.
+
+                    Not a bad a accomplishment, all things considered, but their leader, King Crag, became too isolationist for his own good.
+
+                    Okay, so I accidentally led the Slavers there and those bastards cleaned the place out. It was an honest mistake.
+                </content>
+            </li>
+            <li>
+                <entryNumber>9</entryNumber>
+                <title>Places - Blue Destiny Brothel</title>
+                <content>
+                    Blue Destiny Brothel
+
+                    The best damn whorehouse in the Capital Wasteland. Strong booze and soft women. It shut down in the summer of '49 when most of the ladies died from a cholera outbreak.
+                </content>
+            </li>
+            <li>
+                <entryNumber>10</entryNumber>
+                <title>Places - Underworld</title>
+                <content>
+                    Underworld
+
+                    A city of the dead. Or undead, as some would believe.
+
+                    Underworld was, and is, a settlement of Ghouls, established in an old art exhibit in the Museum of American History.
+
+                    Argyle and I used to go there quite a bit. I was even voted "Honorary Ghoul" back in '51. I really should go back and visit sometime.
+                </content>
+            </li>
+            <li>
+                <entryNumber>11</entryNumber>
+                <title>Places - Megaton</title>
+                <content>
+                    Megaton
+
+                    A town built around an undetonated atomic bomb. My kind of place!
+
+                    Megaton is pretty well fortified now, but back in my day it was even more ramshackle. Great place to grab a drink or a broad.
+
+                    I hear Moriarty even has his own place now. Guess that shouldn't surprise me. That guy had been playing the angles since the day he ended up in this country, as a kid.
+                </content>
+            </li>
+            <li>
+                <entryNumber>12</entryNumber>
+                <title>Pests - Mirelurks</title>
+                <content>
+                    Pests
+                    Mirelurks
+
+                    Goddamn walking crabs.
+
+                    Tough to kill, but pretty delicious afterwards. The outer carapace is hell to penetrate, though. Good thing their face isn't armored (and Argyle had such a good right jab).
+                </content>
+            </li>
+            <li>
+                <entryNumber>13</entryNumber>
+                <title>Pests - Feral Ghouls</title>
+                <content>
+                    Feral Ghouls
+
+                    Ghouls gone bad. Their brains had rotted through so much, they lost the ability to think straight.
+
+                    Argyle and I fought these hapless zombie bastards more times than I can count.
+
+                    I think he actually liked killing them -- saw it as some sort of revenge against God for his own situation, or something.
+                </content>
+            </li>
+            <li>
+                <entryNumber>14</entryNumber>
+                <title>Pests - Radscorpions</title>
+                <content>
+                    Radscorpions
+
+                    I've been a lot of places in my day, and everywhere you'd find those damned Radscorpions.
+
+                    Rumor was they'd descended from Emperor Scorpions, which you could find in pretty much any pet store in the country when bombs fell. I guess that explains their population.
+                </content>
+            </li>
+            <li>
+                <entryNumber>15</entryNumber>
+                <title>Pests - Yao Guai</title>
+                <content>
+                    Yao Guai
+
+                    Bears, or the Capital Wasteland's equivalent, anyway.
+
+                    You're not going to find one of these babies balancing on a big rubber ball, though, I can tell you that much. They're are vicious as they come -- razor sharp claws, razor sharp teeth. Nasty, nasty temperament.
+                </content>
+            </li>
+            <li>
+                <entryNumber>16</entryNumber>
+                <title>Pests - Robobrains</title>
+                <content>
+                    Robobrains
+
+                    I have to admit, I've always been fascinated by these things.
+
+                    Such an ingenious creation -- a robot powered by a brain, and a sexy dame's voice. Of course, I always had to wonder. Were they human brains? Were they actually the brains of sexy dames?? Or is it all monkey brains and recordings?
+
+                    Anyway, I got hit by one of their mind blasts once. Hell of a headache for three days.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_DashwoodDatabase</defName>
+        <label>Exploration Database - Tenpenny Tower</label>
+        <description>Herbert Dashwood's personal database documenting his adventures, companions, and discoveries across the Capital Wasteland.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_DashwoodDatabase</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Underworld Terminals -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_BarrowsResearch</defName>
+        <label>Research Terminal - The Chop Shop</label>
+        <description>Doctor Barrows' comprehensive research on post-necrotic human biology and ghoul mutations.</description>
+        <category>ScientificData</category>
+        <author>Doctor Barrows</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Examination of the Post-Necrotic Human</title>
+                <content>
+                    Examination of the Post-Necrotic Human
+
+                    In my seven dozen years studying the ghoul anatomy, I discover more and more evidence to support my theory on the nature of the not-radiological human, or "ghoul" as they are commonly called.
+
+                    In summary: I theorize that our unnaturally long lifespan is due to a mutation within the autonomic nervous system of certain individuals following exposure to specific combinations of ionizing radiation with wavelengths below 10 picometers. This mutation, it seems, disrupts the normal process of decay in the neurotransmitters along the spinal cord.
+
+                    Specifically, the transmitters effected are those responsible for cardiac and respiratory function in a healthy human. According to my studies, these transmitters are continually regenerated after mutation, carrying sufficient oxygen to sustain the life of the subject while being insufficient to retain skin elasticity and avoid necrosis, the result of which is the corpse-like appearance of post-mutation humans. It should be noted that exposure to radiation typically result in sickness followed by death and the x-factor that will lead to mutation upon exposure in lieu of the typical outcome remains unknown to this researcher.
+
+                    In the coming months, I will be assembling my findings on this subject into a full study.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Neurology of Luminous Necrotic Post-Humans</title>
+                <content>
+                    Neurology of Luminous Necrotic Post-Humans
+
+                    The brain structure of a Luminous Necrotic Post-Human (colloquially referred to as a "Glowing One") indicates that the regenerative ability of the neurological systems that affords typical Necrotic Post-Humans their longevity, does not extend into the higher reasoning functions of the brain itself. (This subject is further covered in report on the dissection of Feral Necrotic Post-Humans)
+
+                    The distinctive luminescence that is the trademark of the Glowing One can be best attributed to an unusual amount of radioactive chemicals that building up in the bloodstream and muscle tissue of a typical Ghoul. Upon the transformation into a Feral Ghoul, the neurological systems of the body cease filtering these particles from the blood and tissue, instead causing them to build a distinctive bioluminescence that is distinctive of the "Glowing Ones".
+
+                    Their social structure seems to be different from that of the Feral Ghoul. They actively seek out others of both their strain and those afflicted with Ferocious Post-Necrotic Dystrophy, particularly those who may have been injured. Studies on the nature of their healing effects on other ghouls continues with no conclusive results as of yet.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Study Of Ferocious Post-Necrotic Dystrophy</title>
+                <content>
+                    Study Of Ferocious Post-Necrotic Dystrophy
+
+                    The brain structure of a Feral Necrotic Post-Human indicates that the regenerative ability of the neurological systems that affords typical Necrotic Post-Humans their longevity does not extend into the higher reasoning functions of the brain itself. This is a condition that I refer to as Ferocious Post-Necrotic Dystrophy.
+
+                    As the reasoning and high order thinking portions of the brain deteriorate, the Post-Human subject becomes increasingly hostile, giving into a carnal need to feed as opposed to the capacity for thinking that reasoning that a typical Necrotic Post-Human retains. It remains unclear exactly what precipitates this change in biology and psychology, but anecdotal evidence seems to indicate that non-social ghouls, or those in isolation, are more prone to the condition.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_BarrowsResearch</defName>
+        <label>Research Terminal - The Chop Shop</label>
+        <description>Doctor Barrows' comprehensive research on post-necrotic human biology and ghoul mutations.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_BarrowsResearch</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_TulipTerminal</defName>
+        <label>Word Processing System - Underworld Outfitters</label>
+        <description>Tulip's personal project transcribing Paradise Lost from pre-war literature.</description>
+        <category>PersonalLog</category>
+        <author>Tulip</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Paradise Lost: Book I</title>
+                <content>
+                    Paradise Lost: Book I
+
+                    O Prince, O Chief of many Throned Powers,
+                    That led th' imbattelld Seraphim to Warr
+                    Under thy conduct, and in dreadful deeds
+                    Fearless, endanger'd Heav'ns perpetual King;
+                    And put to proof his high Supremacy,
+                    Whether upheld by strength, or Chance, or Fate,
+                    Too well I see and rue the dire event,
+                    That with sad overthrow and foul defeat
+                    Hath lost us Heav'n, and all this mighty Host
+                    In horrible destruction laid thus low,
+                    As far as Gods and Heav'nly Essences
+                    Can Perish: for the mind and spirit remains
+                    Invincible, and vigour soon returns,
+                    Though all our Glory extinct, and happy state
+                    Here swallow'd up in endless misery.
+                    But what if he our Conquerour, (whom I now
+                    Of force believe Almighty, since no less
+                    Then such could hav orepow'rd such force as ours)
+                    Have left us this our spirit and strength intire
+                    Strongly to suffer and support our pains,
+                    That we may so suffice his vengeful ire,
+                    Or do him mightier service as his thralls
+                    By right of Warr, what e're his business be
+                    Here in the heart of Hell to work in Fire,
+                    Or do his Errands in the gloomy Deep;
+                    What can it then avail though yet we feel
+                    Strength undiminisht, or eternal being
+                    To undergo eternal punishment?
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Paradise Lost: Book II</title>
+                <content>
+                    Paradise Lost: Book II
+
+                    First MOLOCH, horrid King besmear'd with blood
+                    Of human sacrifice, and parents tears,
+                    Though for the noyse of Drums and Timbrels loud
+                    Their childrens cries unheard, that past through fire
+                    To his grim Idol. Him the AMMONITE
+                    Worshipt in RABBA and her watry Plain,
+                    In ARGOB and in BASAN, to the stream
+                    Of utmost ARNON. Nor content with such
+                    Audacious neighbourhood, the wisest heart
+                    Of SOLOMON he led by fraud to build
+                    His Temple right against the Temple of God
+                    On that opprobrious Hill, and made his Grove
+                    The pleasant Vally of HINNOM, TOPHET thence
+                    And black GEHENNA call'd, the Type of Hell.
+                    Next CHEMOS, th' obscene dread of MOABS Sons,
+                    From AROER to NEBO, and the wild
+                    Of Southmost ABARIM; in HESEBON
+                    And HERONAIM, SEONS Realm, beyond
+                    The flowry Dale of SIBMA clad with Vines,
+                    And ELEALE to th' ASPHALTICK Pool.
+                    PEOR his other Name, when he entic'd
+                    ISRAEL in SITTIM on their march from NILE
+                    To do him wanton rites, which cost them woe.
+                    Yet thence his lustful Orgies he enlarg'd
+                    Even to that Hill of scandal, by the Grove
+                    Of MOLOCH homicide, lust hard by hate;
+                    Till good JOSIAH drove them thence to Hell.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Paradise Lost: Book IV</title>
+                <content>
+                    Paradise Lost: Book IV
+
+                    O For that warning voice, which he who saw
+                    Th' APOCALYPS, heard cry in Heaven aloud,
+                    Then when the Dragon, put to second rout,
+                    Came furious down to be reveng'd on men,
+                    WO TO THE INHABITANTS ON EARTH! that now,
+                    While time was, our first Parents had bin warnd
+                    The coming of thir secret foe, and scap'd
+                    Haply so scap'd his mortal snare; for now
+                    SATAN, now first inflam'd with rage, came down,
+                    The Tempter ere th' Accuser of man-kind,
+                    To wreck on innocent frail man his loss
+                    Of that first Battel, and his flight to Hell
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Paradise Lost: Book VIII</title>
+                <content>
+                    Paradise Lost: Book VIII
+
+                    To whom thus ADAM gratefully repli'd.
+                    What thanks sufficient, or what recompence
+                    Equal have I to render thee, Divine
+                    Hystorian, who thus largely hast allayd
+                    The thirst I had of knowledge, and voutsaf't
+                    This friendly condescention to relate
+                    Things else by me unsearchable, now heard
+                    VVith wonder, but delight, and, as is due,
+                    With glorie attributed to the high
+                    Creator; some thing yet of doubt remaines,
+                    VVhich onely thy solution can resolve.
+                    VVhen I behold this goodly Frame, this VVorld
+                    Of Heav'n and Earth consisting, and compute,
+                    Thir magnitudes, this Earth a spot, a graine,
+                    An Atom, with the Firmament compar'd
+                    And all her numberd Starrs, that seem to rowle
+                    Spaces incomprehensible (for such
+                    Thir distance argues and thir swift return
+                    Diurnal) meerly to officiate light
+                    Round this opacous Earth, this punctual spot,
+                    One day and night; in all thir vast survey
+                    Useless besides, reasoning I oft admire,
+                    How Nature wise and frugal could commit
+                    Such disproportions, with superfluous hand
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_TulipTerminal</defName>
+        <label>Word Processing System - Underworld Outfitters</label>
+        <description>Tulip's personal project transcribing Paradise Lost from pre-war literature.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_TulipTerminal</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+</Defs>

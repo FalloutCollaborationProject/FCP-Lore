@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--__________ Corporate Entries __________-->
+
+    <!-- Capital Post Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_CapitalPost</defName>
+        <label>Capital Post - Top Stories Archive</label>
+        <description>A newspaper terminal from the Capital Post offices with archived stories.</description>
+        <category>BroadcastRecording</category>
+        <author>Capital Post Staff</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Top Stories -- January 11, 2077</title>
+                <content>
+                    Good morning, chief!
+
+                    Commies Crushed - Alaska Liberated!
+
+                    By Dorothy Proud
+
+                    Capital Post Staff Writer
+
+                    In the late evening hours of January 10th, brave American Army forces launched an all-out offensive against the entrenched Chinese Communist invaders in the beleaguered seaport of Anchorage, Alaska, destroying all opposition and finally liberating the city after more than ten years of Chinese occupation.
+
+                    No red-blooded American can ever forget that terrible winter of 2066, when Chairman Cheng's commie cutthroats mercilessly invaded the icy extension of the United States, in an unprecedented act of foreign aggression that sent shockwaves all the way back to our nation's Capital.
+
+                    But the nightmare is finally over, and America, always the home of the brave, is once again the land of the free.
+
+                    Food Riots Rile Feds
+
+                    By Walter "Street Beat" Munroe
+
+                    Capital Post Staff Writer
+
+                    It would appear that Washington's tolerance for American social disorder has finally reached its breaking point.
+
+                    In a recent public statement, White House spokesman Warren Eccleston said:
+
+                    "Okay, Americans are hungry. We get it. Well I've got news for you - things are tough all over, people. The President himself has been forced to substitute cube steak for his nightly prime rib, and the only wine available is a detestable Chateau Montrose 2043. But does he whine? Does he take to the streets like a rabid Red? So please, good people, please. Wait in line. Get your food. And then go home. We're Americans! We do not solve our problems with violence."
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Top Stories -- June 3, 2072</title>
+                <content>
+                    Good morning, chief!
+
+                    U.S. to Annex Canada!
+
+                    By Dorothy Proud
+
+                    Capital Post Staff Writer
+
+                    In a move that is being widely viewed as both necessary and overdue, the United States military today declared that they will begin the immediate annexation of the country of Canada.
+
+                    The decision comes after a long and contentious relationship with the Canadian government that began shortly after the Chinese invasion of Anchorage, Alaska in the winter of 2066. The Canadian leadership at that time expressed its opposition to American troops passing through their country or traversing their airspace, but ultimately capitulated.
+
+                    Tensions with our neighbor to the north have only escalated since then as the United States has found itself relying heavily on Canada's natural resources - including wood cultivated from the country's great Timberland forests - to maintain the war effort against China.
+
+                    But it was a recent near-sabotage of the Alaskan pipeline that finally tipped the American military's hand.
+
+                    "That was the last straw," said Buzz Babcock, commander of U.S. forces in Canada. "You know what's been stopping the Reds from pouring into downtown Juneau? American soldiers, that's what. And now we've got to worry about someone - Chinese, Alaskan, or otherwise - taking out the pipeline? I don't think so. Effectively immediately, United States troops are beginning a complete takeover of all Canadian assets and resources. Little America is ours. But let's face it - it always has been."
+
+                    Development of Super Weapon Confirmed
+
+                    By Walter "Street Beat" Munroe
+
+                    Capital Post Staff Writer
+
+                    In a startling turnaround from their previous policy of complete covert development, the United States Army has confirmed that they are indeed working on a new super weapon, one designed specifically to crush the Red Chinese invasion force and liberate occupied Anchorage, Alaska once and for all.
+
+                    Speaking at an Army press conference at the Pentagon, General Constantine Chase stated: "No more secrets. The time has come to lay all our cards on the table, so the Chinese can see with their own eyes that we've got the winning hand. The United States Army is proud to announce that for the first time in history, General Atomics International and RobCo have joined forces to create for this great country a super weapon that will leave every single yellow-bellied Red shaking in their Commie booties."
+
+                    Unfortunately for our readers, that's as specific as Chase is willing to get. While he and the Army are ready for China to know the U.S. is developing a new weapon, they're not quite ready to divulge just what it is, or when it will be ready for deployment.
+
+                    "All in due time, all in due time. Rest assured, when this weapon is complete, liberty will come to Anchorage... and Hell will follow."
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Top Stories -- July 27, 2052</title>
+                <content>
+                    Good morning, chief!
+
+                    United Nations Disbanded!
+
+                    By Dorothy Proud
+
+                    Capital Post Staff Writer
+
+                    In a crushing blow to foreign relations and world peace, the United Nations yesterday was completely disbanded, leaving its member nations to fend for themselves in these trying times.
+
+                    Many had considered the United Nations the best hope for brokering a ceasefire between the European Commonwealth and the nations of the Middle East, but such an intervention is now impossible.
+
+                    In a somber press conference at the United Nations building in New York City, United Nations president Sakugama Okiri had this to say: "It is a sad day for the United States. Sadder still for the world. An era of relative peace and prosperity has come to a tragic end. The Resources Wars are upon us, and in my humble opinion the United Nations is needed now more than ever. Sadly, the world disagrees."
+
+                    Those nations that have not already moved out of the immense headquarters will have completely vacated the premises by the end of the week. Several organizations have already begun bidding on the prime real estate, but children's toy retailer Bumbalo's seems determined to transform the building into their new East Coast superstore.
+
+                    Pint-Sized Slasher: More than Myth?
+
+                    By Walter "Street Beat" Munroe
+
+                    Capital Post Staff Writer
+
+                    What American child alive hasn't heard the story of the Pint-Sized Slasher, that diminutive demon in a clown mask who stalks and slashes the innocent residents of supposedly safe suburbia? It's just one of the many folk stories parents use to scare their youngsters into behaving themselves. Or is it?
+
+                    According to Germantown police chief Joseph Field, the Pint-Sized Slasher may be more real than many people would like to admit. "After reviewing the autopsy results of the Linden Street slayings, we have confirmed that the force and direction of every knife wound are consistent with an attack from a much smaller assailant. A child, to be precise."
+
+                    Add to the sinister forensic findings this statement from Christopher Atkinson, the one surviving victim of the adolescent assassin, and it becomes clear that the Pint-Sized Slasher does indeed walk among us: "The clown! The clown! He's going to kill us all, do you understand me? He stabbed my brother Shaun right in the face! He killed my brother! The little clown!"
+
+                    But assuming the Pint-Sized Slasher is indeed a real, tangible threat to the peace loving residents of D.C. suburbia, one question remains: why? What could possible motivate a child to don a clown mask and murder innocent people in cold blood? We may never know. At least not until the miniature maniac is brought to justice. Until then, all we can do is lock our doors, kiss our children goodnight… and pray they live to see morning.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_CapitalPost</defName>
+        <label>Capital Post - Top Stories Archive</label>
+        <description>A newspaper terminal from the Capital Post offices with archived stories.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_CapitalPost</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Hubris Comics Company Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_HubrisComics</defName>
+        <label>Hubris Comics - Company Terminal</label>
+        <description>Corporate terminal log from Hubris Comics Publishing with release schedules and company announcements.</description>
+        <category>CorporateMemo</category>
+        <author>Hubris Comics Publishing</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Release Schedule - Summer 2077</title>
+                <content>
+                    Hubris Comics - Summer 2077 Schedule
+                    A Glorious Summer for Hubris and America!
+
+                    June:
+                    Captain Cosmos: Truth, Justice, and the Space-American Way
+                    Kid Wacky's Zany Hi-Jinks
+                    Grognak the Barbarian: Revenge of the Man-Saurian
+                    Tales from the Front: Alaska Unbowed
+
+                    July:
+                    Grognak's Salute to the Troops
+                    Tales from the Front: Liberated Canada
+                    Captain Cosmos: Invasion of the Black Planet
+                    Drake Tungsten, Chrono Cowboy
+
+                    August:
+                    Tales from the Front: the Red Terror
+                    Underground Life: Vault-Boy Special
+                    Grognak the Barbarian: An Axe For All Ages
+                    Captain Cosmos: the Radioactive Space-Men from Space!
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Letters to the Editor</title>
+                <content>
+                    "Requiem for an Antagonist"
+
+                    Grognak the Barbarian is an excellent comic for many reasons, but one of the most widely-respected ones is the depth of its villains. From the cold-blooded manipulations of the Man-Saurian to the love-hate romance with Femme-Ra, the stories of Grognak's enemies are every bit as fascinating as his own tales.
+
+                    But, for my money, no tale is more tragic and more fascinating than that of the AntAgonizer. While never developed as fully as major villains like Skullpocalypse or Mastadonald, the portrait of the orphaned girl raised by ants and instilled with a bitter hatred of humanity has tremendous potential for reader connection and possible redemption.
+
+                    However, in "Grognak and the Ants of Agony," Mr. Neptura threw away all of that potential by simply treating the AntAgonizer as a two-dimensional villain with a futile and pointless grudge against mankind. His writing replaced her subtle undertones of lost humanity and tragically lost innocence with the worst sort of mustache-twirling cliched dialogue. It was an offense to a deep and tragic character.
+
+                    How a hack like that continues to find work in comics is beyond my comprehension. Hubris Comics should fire him and return the series to the capable hands of Mr. Moorellis. Until that time, I REFUSE to buy another comic from what USED to be my favorite publisher!
+
+                    Obsessed in Oakmont
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Beta Testing Notice</title>
+                <content>
+                    ***Beta Testing Notice***
+
+                    Ms. Granier -
+
+                    Beginning Monday, members of the Grognak's Lil' Heathens Fan Club will begin visiting the offices to participate in beta-testing our Reign of Grelok software. Participants must fill out our participation agreement, and should be directed to the testing station fifteen minutes prior to their scheduled appointment time. Just follow the main hallway all the way to the end and go through the door on your right. From there, the Beta Testing Area is just down the smaller hallway to your right.
+
+                    Rebecca, a personal note - some members of the Fan Club may be a little... exuberant. We realize that you are not a baby-sitter, and appreciate the extra trouble you'll be going to this week. This beta test is very important to getting our Hubris Software venture off to a good start, so please do your best to keep things under control out front. You will be compensated at time-and-a-half for the week as a token of our gratitude for your trouble.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Press Release - Vault Boy Crossover</title>
+                <content>
+                    For Immediate Release:
+
+                    HUBRIS COMICS AND VAULT-TEC INCORPORATED UNVEIL "VAULT BOY MEETS HELL'S CHAIN GANG" LIMITED FIVE-PART MINISERIES
+
+                    The very best in Invincible Entertainment and Inpenetrable Vaults team up to bring comic fans a gripping grimoire of greatness!
+
+                    From their headquarters in Washington, DC, Hubris Comics announced today plans to bring a beloved American Icon into the Hubris Comics Universe - none other than the beloved Vault Boy Character.
+
+                    "Vault Boy was the perfect choice for our new Hell's Chain gang series", says Hubris Comics Chief of Publishing Peter Shiner, "In which those Valiant Vigilantes take on Chairman Cheng's Commie Cyborg Corps - after all, Vault Boy knows a thing or two about going up against that Red Menace!"
+
+                    The five-part miniseries will feature an alternate future in which Chinese Communists have invaded America. Vault Boy and Hell's Chain Gang are the last, best hope for America to break free from the shackles of Communism in this cautionary tale of vigilance.
+
+                    "It has always been Vault-Tec's mission to educate and protect our Countrymen from the Communist threat", commented Vault-Tec Public Relations Executive Joanne Strausser, "This exciting project is a perfect opportunity to thrill young Americans while sending home an important message for us all: Every good American must help shoulder the burden of freedom, and always be wary of the Communist Threat".
+
+                    The first issue of this miniseries will be available on newsstands everywhere this Holiday Season.
+
+                    About Hubris Comics
+                    Hubris Comics, a branch of Hubris Publishing, headquartered in Washington, DC, has been producing printed entertainment since 2021. Hubris Comics are known for such popular properties as Grognak the Barbarian, Hell's Chain Gang, and The Inspector.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_HubrisComics</defName>
+        <label>Hubris Comics - Company Terminal</label>
+        <description>Corporate terminal log from Hubris Comics Publishing with release schedules and company announcements.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_HubrisComics</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Reign of Grelok Beta Software -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_ReignOfGrelok</defName>
+        <label>Reign of Grelok - Beta Terminal</label>
+        <description>Beta test terminal for Hubris Comics' text adventure game Reign of Grelok.</description>
+        <category>PreWarStory</category>
+        <author>Hubris Software</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Plains - Starting Location</title>
+                <content>
+                    Reign of Grelok (beta v.632)
+
+                    You are standing in a wide plain. Foothills stretch to the north, where clouds gather around an ominous peak. A dirt path winds from a lonely chapel to the east, through the plains where you're standing, and south into a bustling town. Wispy mists gather over marshland in the west, where a thin tower stands alone in the bog.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Mountain - Grelok's Lair</title>
+                <content>
+                    You are on the craggy, windblasted face of a mountain. Stormclouds coil above the summit, pelting you and the sparse vegetation with torrential downpour. Far below, beyond the foothills, a wide plain stretches across the southern horizon.
+
+                    Grelok is here, spewing heresies.
+
+                    A glint between the rocks catches your eye.
+
+                    You take a rough gemstone from the rocks.
+
+                    Your puny weapons are useless on Grelok.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Town - The Village</title>
+                <content>
+                    You're standing in the dusty market square of a quiet town. Many of the shops and homes lie abandoned, and the citzens that can be seen speak in hushed voices, casting furtive glances at the darkened skyline in the distant north. The ringing of an anvil breaks the silence regularly, where a mustachioed blacksmith bends over his work in a nearby tent.
+
+                    The blacksmith is here, working.
+                    A priest is here, drinking.
+
+                    The blacksmith: "There's no shortage of work to be done with Grelok scarin' everyone witless. Leave me to filling my orders, stranger."
+
+                    The priest: "Grelok is come, and we are forsaken! Urp! If you could rid the place of the zombies, I'll give you the key, and you can help yourself to the apothecary."
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Chapel - The Graveyard</title>
+                <content>
+                    You stand at the end of a dirt path, facing a small chapel. The stucco walls are faded, many roof tiles are missing. The great oaken doors are locked. The congregation is nowhere to be found. A small cemetery of crooked headstones lies in the shadow of the cracked steeple.
+
+                    A zombie totters aimlessly nearby.
+                    There is an open grave nearby.
+
+                    Your blow knocks the zombie into a grave.
+
+                    There is a deep, empty grave in the cemetery. Several bloated rats and a zombie corpse float in a foot of filthy water at the bottom. Don't fall in!
+
+                    A grotesque zombie head is stuck on a root near the top of the grave. You bag the horrific trophy as proof of your deed.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>Swamp - The Wizard's Tower</title>
+                <content>
+                    You are standing on a narrow stone path in a dark marsh. Greasy bubbles float to the top of the bog-waters on either side and pop lazily, spattering your legs with muck and slime. A short, stone tower squats here. No door is visible, and the stones are smooth and polished. A balcony juts out midway up the tower's face. The heady smells of incense mix with the nauseating stench of the swamp.
+
+                    A wizard is here, gesticulating wildly from his balcony.
+
+                    The wizard: "You're here, you've arrived! I've seen, you see. You're the one to defeat Grelok. Hoo-hoo! Now the time's come to play my part. Toss up the gem!"
+
+                    The wizard slaps the hovering stone, smashing it against the smooth stone of the tower. In a burst of light, the stone splits into two.
+
+                    "Shard for the sword. Wrap her in iron and she'll find Grelok's black heart for you. Take the chaff, too. You'll need payment for a smith to forge the weapon."
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>Quest Resolution - Forging the Blade</title>
+                <content>
+                    You return to the blacksmith with the polished gemstone. He regards you gruffly and is about to dismiss you when you produce the polished gemstone from your bag. He sets his hammer aside and twirls his moustache.
+
+                    "A right fine stone, that is. What would you be needin', then?"
+
+                    Following your careful instructions, the smithy re-forges your rusty sword with the magical shard at the center of the blade.
+
+                    You present the priest with the decapitated zombie head from your bag.
+
+                    "Praise you! Perhaps Grelok's influence isn't so strong!" He presses a brass key into your palm, "Please, help yourself to what little may be of use at my chapel."
+
+                    Inside the chapel, dust motes hang lazily in the shafts of colored light. There is a very deep stone cistern near the entrance. It is full to the brim with blessed water.
+
+                    There is more than enough water here to fill your tiny flask.
+                </content>
+            </li>
+            <li>
+                <entryNumber>7</entryNumber>
+                <title>Victory - Defeating Grelok</title>
+                <content>
+                    When you draw your sword, Grelok lowers his great horned head and bellows laughter in your face. You grit your teeth and swing a mighty two-handed blow, the magical blade ringing clearly, even amid the tumult of throaty cackling.
+
+                    You swing the sword so fiercely, it escapes your grip and hurtles into the open maw of the monstrosity, lost from sight in the arid darkness of Grelok's throat. You step back as Grelok jerks his mouth shut and stands upright. He is still for a moment, then starts clawing at his neck. Muffled, a ringing can be heard as if from a great distance.
+
+                    Suddenly, Grelok's chest bursts in a fount of viscous, green blood. The Ringing can be heard clearly now, and as thick lifeblood oozes around the protruding tip of the magic sword, the stormclouds swirling the peak are already clearing. Grelok is defeated!
+
+                    THE END
+                    (Thanks for playing!)
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_ReignOfGrelok</defName>
+        <label>Reign of Grelok - Beta Terminal</label>
+        <description>Beta test terminal for Hubris Comics' text adventure game Reign of Grelok.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_ReignOfGrelok</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- L.O.B. Enterprises Front Desk Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_LOBFrontDesk</defName>
+        <label>L.O.B. Enterprises - Front Desk Terminal</label>
+        <description>Front desk terminal log from L.O.B. Enterprises showing emergency protocols and the federal raid.</description>
+        <category>CorporateMemo</category>
+        <author>L.O.B. Enterprises</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Emergency Protocols - Weapons Policy H31</title>
+                <content>
+                    All Personnel: Emergency Protocols
+
+                    Weapons Policy H31
+
+                    As standard policy, all employees are required to carry low-grade military-class weaponry at all times (see HR PolicyA12). In the event of a hostile takeover, your desk can be used as a makeshift barricade. Position the desk between yourself and your opponent, then crouch behind the desk while firing any weapon approved on Form B43-2.
+
+                    NOTE: Cafeteria privileges will be suspended in the event of a hostile takeover.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Email: Weapon Practice Tonight?</title>
+                <content>
+                    From: McCoy, Derrick
+                    To: Entire Company
+
+                    Subject: Weapon Practice Tonight?
+
+                    If anyone would like to practice with their "low-grade, military-class" company issue, Sam and I will be shooting rounds off in the yard at 7:00PM.
+
+                    BYOB.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Sent Item: MAN THE DOORS!!</title>
+                <content>
+                    From: Warring, Joanna
+                    To: Entire Company
+
+                    Subject: Oh, !@
+
+                    THEY'RE HERE! MAN THE DOORS! THE FEDS ARE HERE!
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>All Personnel: Caps in Emails</title>
+                <content>
+                    From: Director of Human Resources
+                    To: Entire Company
+
+                    Subject: Caps in Emails
+
+                    I would like to remind everyone that, despite the impending Federal invasion, standard company policy is still in effect.
+
+                    Specifically, do not write emails in all caps. This style is offensive to your coworkers.
+
+                    Thank you for your cooperation.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_LOBFrontDesk</defName>
+        <label>L.O.B. Enterprises - Front Desk Terminal</label>
+        <description>Front desk terminal log from L.O.B. Enterprises showing emergency protocols and the federal raid.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_LOBFrontDesk</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Sam Johnson's Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_SamJohnson</defName>
+        <label>L.O.B. Enterprises - Sam Johnson's Terminal</label>
+        <description>Terminal log from Sam Johnson with harassment warnings and emergency protocols.</description>
+        <category>CorporateMemo</category>
+        <author>L.O.B. Enterprises</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Emergency Protocols - Weapons Policy H31</title>
+                <content>
+                    LOB Enterprises Employee Terminal
+                    Welcome Mr. Johnson
+
+                    Please refrain from making inappropriate comments and actions towards the female employees.
+
+                    As is company policy, this reminder will remain on screen for as long as Human Resources deems necessary.
+
+                    All Personnel: Emergency Protocols
+
+                    Weapons Policy H31
+
+                    As standard policy, all employees are required to carry low-grade military-class weaponry at all times (see HR PolicyA12). In the event of a hostile takeover, your desk can be used as a makeshift barricade. Position the desk between yourself and your opponent, then crouch behind the desk while firing any weapon approved on Form B43-2.
+
+                    NOTE: Cafeteria privileges will be suspended in the event of a hostile takeover.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Memo: Sexual Harassment Charge</title>
+                <content>
+                    From: Director of Human Resources
+                    To: Johnson, Samuel
+
+                    Mr. Johnson,
+
+                    I would like to remind you that company policy forbids any form of harassment between employees, sexual or otherwise.
+
+                    Specifically, you will refrain from greeting any female employee with the phrase: "Hey doll, want to see if this is a grenade in my pocket, or if I'm just happy to see you?"
+
+                    This statement is not only offensive and inappropriate, but could be considered a misuse of company-issued grenades (see Form B43).
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Memo: Responding to Federal Raids</title>
+                <content>
+                    Internal Memorandum
+
+                    Due to the increased awareness of our upcoming project milestone, you and your fellow employees may be required to initiate Emergency Defensive Procedures, as outlined in the Employee Handbook. If required, please review policies H31, L04, L05, P55, T01.
+
+                    Your continued adherence to company policy is appreciated.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_SamJohnson</defName>
+        <label>L.O.B. Enterprises - Sam Johnson's Terminal</label>
+        <description>Terminal log from Sam Johnson with harassment warnings and emergency protocols.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_SamJohnson</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Security Operations Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_LOBSecurity</defName>
+        <label>L.O.B. Enterprises - Security Operations Terminal</label>
+        <description>Security terminal log from L.O.B. Enterprises with protocols and security system status.</description>
+        <category>CorporateMemo</category>
+        <author>L.O.B. Enterprises Security</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Security System Status</title>
+                <content>
+                    Security System Login
+
+                    View Security Feed
+                    > ERROR // No Source detected...
+
+                    Bring Security Turrets Online
+                    > Turret Sentries active...
+
+                    Saved Feed Still: 8:14am
+                    > PipOS Error -26
+
+                    Saved Feed Still: 8:21am
+                    > PipOS Error -26
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Saved Memo - Attn: Security Captain</title>
+                <content>
+                    Mr. Humbert -
+
+                    I'm informed that Federal Investigators are interrogating Mrs. Johansson in the main lobby. Please enact security protocol C6-88 as outlined in your security handbook, addendum 4.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Company Policies - Emergency Procedures</title>
+                <content>
+                    Internal Memorandum
+
+                    Due to the increased awareness of our upcoming project milestone, you and your fellow employees may be required to initiate Emergency Defensive Procedures, as outlined in the Employee Handbook. If required, please review policies H31, L04, L05, P55, T01.
+
+                    Your continued adherence to company policy is appreciated.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Evacuation Policy T01</title>
+                <content>
+                    Evacuation Policy T01
+
+                    In the event of emergency evacuation scenario F1-a, all executive staff not under penalty are to be evacuated from the building via the archives and connected civic tunnels. All other personnel will remain behind to safeguard active projvects from imminent Federal inquiry.
+
+                    All employees are tasked with barricading the main doors, and will be further tasked with keeping the building secured until 5:00 PM, or until the Chief of Security enacts protocol T81. The usual lunch break will be suspended for that day.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>Inclement Weather Policy C31</title>
+                <content>
+                    Inclement Weather Policy C31
+
+                    In the event of extreme winter (nuclear) conditions, all employees are required to proceed to human resources and complete forms D87-a, D87-b, H04-1, and A14-3, addendum 7. In accordance with company policy L83, employees will be issued iodine tablets, personal geiger counter, meal rations, and sworn into the sovereign L.O.B. republic.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_LOBSecurity</defName>
+        <label>L.O.B. Enterprises - Security Operations Terminal</label>
+        <description>Security terminal log from L.O.B. Enterprises with protocols and security system status.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_LOBSecurity</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- R&D Operations Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_LOBResearch</defName>
+        <label>L.O.B. Enterprises - RD Terminal</label>
+        <description>Research and development terminal log from L.O.B. Enterprises documenting Project Zhu-Rong weapon prototypes.</description>
+        <category>TechnicalManual</category>
+        <author>L.O.B. Enterprises RD</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Lab Report: Prototype ZRIN-363</title>
+                <content>
+                    PROJECT ZHU-RONG
+                    PROTOTYPE LAB REPORTS
+                    SOLE OWNERSHIP L.O.B. ENTERPRISES
+                    VIOLATORS PUNISHED UNDER P47
+
+                    Lab Report: Prototype ZRIN-363
+
+                    Experimental prototype makes extensive use of hardware common to liquid ammunition flame projection weapons. While initial test results were impressive, extreme weight of unit (118.3kg) and fume inhalation rendered most test subjects incapable of firing the unit or remaining conscious under typical field conditions.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Lab Report: Prototype ZRIN-375</title>
+                <content>
+                    Lab Report: Prototype ZRIN-375
+
+                    Prototype introduces proprietary ammunition type. Conventional 10mm shells house a caplet containing amalgamating agents. When the caplet was broken in lab tests, localized fireburst and shrapnel projection met requirements for project. However, in field tests amalgam caplet ammunition proved too fragile, and several detonated from excessive vibration or walk speed.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Lab Report: Prototype ZRIN-401</title>
+                <content>
+                    Lab Report: Prototype ZRIN-401
+
+                    Prototype attempts to refine results of acumist coating within weapon barrel. Initial tests showed promise. As predicted, delivery friction super-heats projectile as it is delivered from the weapon, and conventional 10mm ammunition can be used. However; during live-fire testing, subjects firing the weapon in rapid succession suffered severe burns to the fingers and palm.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Lab Report: Prototype ZRIN-418</title>
+                <content>
+                    Lab Report: Prototype ZRIN-418
+
+                    Prototype refines acumist barrel experiments by addition of retardant jacketing, as well as internal heat diffusers. Rate of fire diminished from un-modified version of weapon. Conventional 10mm ammunition does not fully liquefy until impact, giving the 418 exceptional accuracy compared to earlier prototypes. Live-fire tests report no major casualties. Recommend ZRIN-418 as production candidate.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_LOBResearch</defName>
+        <label>L.O.B. Enterprises - RD Terminal</label>
+        <description>Research and development terminal log from L.O.B. Enterprises documenting Project Zhu-Rong weapon prototypes.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_LOBResearch</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- CEO Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_LOBCEO</defName>
+        <label>L.O.B. Enterprises - CEO Terminal</label>
+        <description>CEO terminal log from L.O.B. Enterprises with classified weapon invoice.</description>
+        <category>CorporateMemo</category>
+        <author>L.O.B. Enterprises</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Saved Invoice</title>
+                <content>
+                    Happy Liberty Imports
+                    INVOICE HP-4110c
+                    ---------------------------
+                    |====CONTENTS==========| |
+                    | USA FLAG ZRIN-418     | 1|
+                    | PAPERWEIGHT, LEAD     |450|
+                    | THROW RUG, RETARDANT  | 1|
+                    |---------------------------|
+                    | -TOTAL---------------|0.00|
+                    | Special Instruction:
+                    | Do not leave w/ receptionist.
+                    | Deliver directly to CEO only.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Company Policies</title>
+                <content>
+                    Internal Memorandum
+
+                    Due to the increased awareness of our upcoming project milestone, you and your fellow employees may be required to initiate Emergency Defensive Procedures, as outlined in the Employee Handbook. If required, please review policies H31, L04, L05, P55, T01.
+
+                    Evacuation Policy T01: In the event of emergency evacuation scenario F1-a, all executive staff not under penalty are to be evacuated from the building via the archives and connected civic tunnels. All other personnel will remain behind to safeguard active projvects from imminent Federal inquiry.
+
+                    Inclement Weather Policy C31: In the event of extreme winter (nuclear) conditions, all employees are required to proceed to human resources and complete forms D87-a, D87-b, H04-1, and A14-3, addendum 7. In accordance with company policy L83, employees will be issued iodine tablets, personal geiger counter, meal rations, and sworn into the sovereign L.O.B. republic.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_LOBCEO</defName>
+        <label>L.O.B. Enterprises - CEO Terminal</label>
+        <description>CEO terminal log from L.O.B. Enterprises with classified weapon invoice.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_LOBCEO</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Jeanne McAndrews Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_JeanneMcAndrews</defName>
+        <label>L.O.B. Enterprises - Jeanne McAndrews Terminal</label>
+        <description>Terminal log from Jeanne McAndrews documenting workplace harassment and her responses.</description>
+        <category>CorporateMemo</category>
+        <author>Jeanne McAndrews</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Sent: Hostile Workplace</title>
+                <content>
+                    From: McAndrews, Jeanne
+                    To: Director of Human Resources
+
+                    Subject: Hostile Workplace
+
+                    Look, I agreed to sign on to this project, I agreed to carry a gun for this project, and dammit, I've shot people for this project -- but I never agreed to go out with Sam Johnson.
+
+                    Ever since the company started handing out the emergency defense supplies, that jackass has repeatedly attacked me and the other female staff with cheap lines and come-ons.
+
+                    If you expect us to get this project done, then stop Sam from talking about the "grenade in his pocket" or I'm out of here along with the entire female staff.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Memo: Responding to Federal Raids</title>
+                <content>
+                    Internal Memorandum
+
+                    Due to the increased awareness of our upcoming project milestone, you and your fellow employees may be required to initiate Emergency Defensive Procedures, as outlined in the Employee Handbook. If required, please review policies H31, L04, L05, P55, T01.
+
+                    Your continued adherence to company policy is appreciated.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Re: Weapon Practice</title>
+                <content>
+                    From: McAndrews, Jeanne
+                    To: McCoy, Derrick
+
+                    Subject: Re: Weapon Practice Tonight?
+
+                    Sure, I'll definitely be there. I wouldn't miss a chance to have my weapon accidentally discharge and hit that "grenade" in Sam's pocket.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Memo: Caps in Emails</title>
+                <content>
+                    From: Director of Human Resources
+                    To: Entire Company
+
+                    Subject: Caps in Emails
+
+                    I would like to remind everyone that, despite the impending Federal invasion, standard company policy is still in effect.
+
+                    Specifically, do not write emails in all caps. This style is offensive to your coworkers.
+
+                    Thank you for your cooperation.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_JeanneMcAndrews</defName>
+        <label>L.O.B. Enterprises - Jeanne McAndrews Terminal</label>
+        <description>Terminal log from Jeanne McAndrews documenting workplace harassment and her responses.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_JeanneMcAndrews</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Mama Dolce's Operations Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_MamaDolcesOperations</defName>
+        <label>Mama Dolce's - Operations Terminal</label>
+        <description>Operations terminal log from Mama Dolce's Food Distribution plant with diagnostics and corporate memos.</description>
+        <category>CorporateMemo</category>
+        <author>Mama Dolce's Food Distribution</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Quarterly Analysis</title>
+                <content>
+                    Quarter 1 Results show strong growth. Sweet-and-Sour Stroganoff frozen dinner enjoying unexpected popularity with youth demographic.
+
+                    Quarter 2 Projections show diminished returns due to increased cost of domestic shipping. Recommend increased quotient of by-product use from regional affiliates in lumber milling companies. Seek alternative revenue streams where possible.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Human Resources Memo</title>
+                <content>
+                    Human Resources Latest Memo:
+
+                    Please welcome our recent new hires to the Washington, D.C. processing and packing plant! Thanks to new plant manager Robert Whiteman for continuing the speedy staffing of this facility.
+
+                    Thomas Jenkins
+                    Michael Smith
+                    Jonathan Apple
+                    Joe Jones
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_MamaDolcesOperations</defName>
+        <label>Mama Dolce's - Operations Terminal</label>
+        <description>Operations terminal log from Mama Dolce's Food Distribution plant with diagnostics and corporate memos.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_MamaDolcesOperations</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Nuka-Cola Plant Terminals -->
+
+    <!-- Research Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_NukaColaResearch</defName>
+        <label>Research Terminal - Nuka-Cola Plant</label>
+        <description>Research department terminal from the Nuka-Cola plant documenting Quantum isotope testing and new product development.</description>
+        <category>CorporateMemo</category>
+        <author>Nuka-Cola Research Department</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Quantum Progress Report 0067</title>
+                <content>
+                    Nuka-Cola Research Department
+                    Security Clearance NKC002 Only!
+
+                    Quantum Progress Report 0067
+
+                    Test subjects in the Nuka-Cola Quantum program are responding well to the reconfigured taste and the new isotope. The only listed side effects from the group are: 3 cases of dizziness, 1 case of nausea and 1 case of impaired vision. We find from a sampling of 50 that this is an acceptable number of cases and approve this product for production.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Quantum Progress Report 0055</title>
+                <content>
+                    Quantum Progress Report 0055
+
+                    Isotope CE772 has proven too damaging to the initial test group which now needs to be disbanded due to their reluctance to continue in our program. This group has suffered 4 fatalities, 12 major internal organ failures and 32 internal radiation burns. This is an unacceptable number of issues in a given test group and recommend we switch to an alternate isotope (such as CE774 or UR993).
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Quantum Progress Report 0041</title>
+                <content>
+                    Quantum Progress Report 0041
+
+                    Isotope CE770 has proven to be a disastrous failure. All of the test subjects suffered severe internal organ failures and died within three days of ingestion. We recommend the immediate destruction of container A32 in the production rooms and suggest switching to isotope CE772. Please send standard "Nuka Condolences" Fruit and Cheese Packages to test group member's families.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>New Flavor Coming!</title>
+                <content>
+                    New Flavor Coming!
+
+                    Attention all Nuka-Cola Corporation Employees
+
+                    We are very proud to announce that RD has been completed on Nuka-Cola Clear! With an only minimal loss of life, we've been able to modify the look of Nuka-Cola but give it the same great taste. We will be submitting the product to Marketing shortly for bottle design and advertising strategies. From all of us in the Research Department, thanks for the support!
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_NukaColaResearch</defName>
+        <label>Research Terminal - Nuka-Cola Plant</label>
+        <description>Research department terminal from the Nuka-Cola plant documenting Quantum isotope testing and new product development.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_NukaColaResearch</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Marketing Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_NukaColaMarketing</defName>
+        <label>Marketing Terminal - Nuka-Cola Plant</label>
+        <description>Marketing department terminal from the Nuka-Cola plant outlining the Quantum advertising campaign strategy.</description>
+        <category>CorporateMemo</category>
+        <author>Nuka-Cola Marketing Department</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Stage One</title>
+                <content>
+                    Nuka-Cola Marketing Department
+                    Nuka-Cola Quantum Campaign Directives
+
+                    Stage One
+
+                    Stage One of the Nuka-Cola Quantum marketing will include: 2 (two) 15 (fifteen)-second television commercials, 4 (four) 10 (ten)-second radio commercials and a highway billboard campaign.
+
+                    The spots on TV and radio will tease the consumer with the blue glow of the new drink, never showing the bottle in an illuminated environment. The billboard will show the bottle's blue silhouette on a black background.
+
+                    The tag line will be "Try something new... Go Blue!". The name will not be revealed until Stage Two.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Stage Two</title>
+                <content>
+                    Stage Two
+
+                    Stage Two of the Nuka-Cola Quantum marketing will include: 2 (two) 30 (thirty)-second television commercials, 4 (four) 15 (fifteen)-second radio commercials and a highway billboard campaign.
+
+                    In this stage, the name "Quantum" will be revealed and the bottle shown in full view. We will emphasize the drink's new energy content and flavor.
+
+                    The tag line will be "Take the leap... enjoy a Quantum!"
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Stage Three</title>
+                <content>
+                    Stage Three
+
+                    Stage Three of the Nuka-Cola Quantum marketing will include: 4 (four) 30 (thirty)-second television commercials, 4 (four) 15 (fifteen)-second radio commercials and a highway billboard campaign.
+
+                    In this final stage we will aggressively compare the drink to other competitors and show their inferiority using hired actors at "taste tests". The actors will read pre-written scripts approved by our department. The text should give an authentic "on the spot" impression but still clearly point out Quantum's strengths.
+
+                    The tag line will remain: "Take the leap... enjoy a Quantum!"
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_NukaColaMarketing</defName>
+        <label>Marketing Terminal - Nuka-Cola Plant</label>
+        <description>Marketing department terminal from the Nuka-Cola plant outlining the Quantum advertising campaign strategy.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_NukaColaMarketing</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Packing Line Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_NukaColaPackingLine</defName>
+        <label>Packing Line Terminal - Nuka-Cola Plant</label>
+        <description>Packing line terminal from the Nuka-Cola plant with operator instructions and Quantum bottle weight issues.</description>
+        <category>CorporateMemo</category>
+        <author>Nuka-Cola Packing Department</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Packing Line Instructions</title>
+                <content>
+                    Nuka-Cola Packing Terminal 3C
+                    Software Version 2.01.3a
+
+                    Packing Line Instructions
+
+                    Welcome to the Nuka-Cola Packing Line Operator's Station! You are now instrumental in getting Nuka-Cola from our factory and to the public, so please read the simple instructions below. If you need assistance, please call x347 and ask for your Line Supervisor.
+
+                    1. Access the Packing Terminal and choose desired inventory to load into Sorting Units.
+                    2. Select "Activate Packing Line."
+                    3. Monitor the Packing Line by listening for things such as mechanical screeching, explosions and/or human cries for help.
+                    4. If there is an emergency, DO NOT PANIC! Simply call x347 and ask for your Line Supervisor. The Packing Line will automatically shut down in the event of an issue.
+
+                    Remember, only you can prevent inventory loss by being attentive and vigilant!
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Packing Line Notice</title>
+                <content>
+                    Packing Line Notice
+
+                    Attention all Packing Line employees!
+
+                    Due to an oversight by the design department, the new Nuka-Cola Quantum bottles are slightly heavier than the standard Nuka-Cola bottles. As a result, the Packing Line is prone to jams and may cause damage to the equipment. Please DO NOT load Nuka-Cola Quantum bottles into the Sorting Units until further notice. All test samples of Quantum will be packaged by hand until a solution is reached.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_NukaColaPackingLine</defName>
+        <label>Packing Line Terminal - Nuka-Cola Plant</label>
+        <description>Packing line terminal from the Nuka-Cola plant with operator instructions and Quantum bottle weight issues.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_NukaColaPackingLine</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Shipping Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_NukaColaShipping</defName>
+        <label>Shipping Terminal - Nuka-Cola Plant</label>
+        <description>Shipping department terminal from the Nuka-Cola plant listing Quantum test site locations in the D.C. area.</description>
+        <category>CorporateMemo</category>
+        <author>Nuka-Cola Shipping Department</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Quantum Test Shipments</title>
+                <content>
+                    Nuka-Cola Shipping Department
+
+                    Quantum Test Shipments
+
+                    Make sure that the initial test shipments of Quantum are sent to the following locations along with the standard marketing package:
+
+                    1. Paradise Falls Shopping Mart
+                    2. Super Duper Mart
+                    3. Old Olney Grocery
+
+                    These first three locations in the D.C. Area will be known as "Test Sites A, B, C" in all inter-company communications. Use the data encoded with this message to mark your maps.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>From: Marketing</title>
+                <content>
+                    From: Marketing
+
+                    The following locations have been accepted into the flagship Nuka-Cola Quantum test program. Please ensure that 1 (one) crate of Quantum is included with their regular deliveries along with the advertising package provided by our Marketing Department.
+
+                    1. Paradise Falls Shopping Mart
+                    2. Super Duper Mart
+                    3. Old Olney Grocery
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_NukaColaShipping</defName>
+        <label>Shipping Terminal - Nuka-Cola Plant</label>
+        <description>Shipping department terminal from the Nuka-Cola plant listing Quantum test site locations in the D.C. area.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_NukaColaShipping</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- RobCo Facility Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_RobCoMainframe</defName>
+        <label>Robot Master Terminal - RobCo Facility</label>
+        <description>RobCo production mainframe orientation guide for robot protocol operators managing Protectron units.</description>
+        <category>TechnicalManual</category>
+        <author>RobCo Industries</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Orientation Guide</title>
+                <content>
+                    Welcome to the RobCo Facilities Robot Master Terminal!
+                    How may I assist you this fine day?
+
+                    Orientation Guide
+
+                    Congratulations on your transferal to the position of ROBOT PROTOCOL OPERATOR! Your trusted co-workers will be the standard Protectron models stationed throughout the facility.
+
+                    "Basic Operation" covers the day-to-day functionality of your co-workers, as described in detail in your training manual.
+
+                    "Pest Extermination" encourages your co-workers to track and sanitize any roaches, rodents, or other undesired pests on the premises.
+
+                    "Total Liquidation" removes your co-workers' humanoid safety protocols, and is for use only in the unlikely event of criminal intrusion or communist attack.
+
+                    "Robot Shutdown" allows you to temporarily retire your co-workers for their regular maintenance, or in the case of accidental Liquidation commands.
+
+                    We trust you'll find the work simple, rewarding, and extremely safe! Enjoy!
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_RobCoMainframe</defName>
+        <label>Robot Master Terminal - RobCo Facility</label>
+        <description>RobCo production mainframe orientation guide for robot protocol operators managing Protectron units.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_RobCoMainframe</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Robot Repair Center Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_RobotRepairCenter</defName>
+        <label>Desk Terminal - Robot Repair Center</label>
+        <description>Employee terminal from the Robot Repair Center with safety warnings and management memos.</description>
+        <category>CorporateMemo</category>
+        <author>Robot Repair Center Staff</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Note from Frank</title>
+                <content>
+                    Note from Frank
+
+                    I can't take it anymore, Bob. I don't trust those turrets in Sector A. I swear I saw one track me the other day when I left work a little late. If that thing opens up on me, I'm screwed, since the bastard Feds suspended workman's comp as part of the "war effort." Hell.
+
+                    Snake helped me smuggle in some pulse grenades that I locked away in the box under my desk. I tried one out on our Handy at the house and the missus nearly killed me! Knocks 'em out like a light. If you ever need one just grab the key from behind my terminal and use it to unlock the box. You can't say I never did anything for you! See you around buddy.
+
+                    Oh, and stop throwing those staples over at me, they get on the floor and you know how I like to take my shoes off during the day.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Note from Management regarding Sector B</title>
+                <content>
+                    Note from Management regarding Sector B
+
+                    MEMO
+                    attn: Warehouse/Repair employees
+
+                    Please make sure the main platform in the Repair Sector is properly raised before releasing the repaired bots from their pods. All units receive firmware programming to make their way to the main entrance and await pickup. Let's get them there safely and not repeat last week's accident involving a Protectron falling to the lower level. That error cost us time, money, and was an embarrassment to the company and our DCTA account client.
+
+                    -- Management
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_RobotRepairCenter</defName>
+        <label>Desk Terminal - Robot Repair Center</label>
+        <description>Employee terminal from the Robot Repair Center with safety warnings and management memos.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_RobotRepairCenter</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Statesman Hotel Terminals -->
+
+    <!-- Concierge Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_StatesmanConcierge</defName>
+        <label>Concierge Terminal - Statesman Hotel</label>
+        <description>Hotel concierge terminal with guest incident and complaint reports.</description>
+        <category>CorporateMemo</category>
+        <author>Statesman Hotel Staff</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Complaint 0001</title>
+                <content>
+                    Complaint 0001
+
+                    Incident Level: 3 (Minor)
+                    Guest Name: Harold Worthington III
+
+                    Incident:
+                    Mr. Worthington claims that the ice machine on the second floor was leaking water, which caused the tile floor to get wet. He then apparently slipped and fell after "spending the night up in the Alfresco" on the way back to his room. He demanded restitution in the form of free room service or "some more of those damn pillows." I found Mr. Worthington to be quite unreasonable and abusive on the phone.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Complaint 0002</title>
+                <content>
+                    Complaint 0002
+
+                    Incident Level: 1 (Major)
+                    Guest Name: Seneca Clarkson
+
+                    Incident:
+                    Ms. Clarkson was found dead in Room 302 in the bed in a state of undress. She had been suffocated by a plastic bag placed over her head and couldn't help herself from this predicament due to her limbs being tied to the bedposts. The man who reported the incident was taking into custody and told us that "It was only a bit of fun!" Ms. Clarkson is well known to be a highly valued escort for this facility, and it is assumed she perished in the line of duty.
+
+                    AD
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Complaint 0003</title>
+                <content>
+                    Complaint 0003
+
+                    Incident Level: 2 (Intermediate)
+                    Guest Name: Wanda Kellendyne
+
+                    Incident:
+                    Ms. Kellendyne reported the smell of cooking coming from her room (202). We immediately dispatched a security guard to her room to ascertain the source of the smell. After investigating the entire room, the guard discovered that the electric blanket we provided her was malfunctioning and literally burning her legs. When asked why she didn't feel any pain, she immediately replied "Honey, I've been married 40 years and I raised 8 kids. What the hell is pain?" That and the myriad of empty pill bottles we found seemed to answer the question.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Complaint 0004</title>
+                <content>
+                    Complaint 0004
+
+                    Incident Level: 3 (Minor)
+                    Guest Name: Harold Worthington III
+
+                    Incident:
+                    Note this is Mr. Worthington's second incident this month. Apparently he claims that the carpeting on the steps leading to the Alfresco Lounge was coming up which caused him to trip and fall down. He says he was making his way back to his room "after a whole night up in the Alfresco Lounge!" and had the accident.
+
+                    As before, he demanded restitution in the form of free room service or "some more of those damn pillows." Once again, I found Mr. Worthington to be quite unreasonable and abusive on the phone. I believe we have now relinquished 23 pillows to this hotel regular over the last 10 months.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_StatesmanConcierge</defName>
+        <label>Concierge Terminal - Statesman Hotel</label>
+        <description>Hotel concierge terminal with guest incident and complaint reports.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_StatesmanConcierge</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Alfresco Lounge Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_StatesmanAlfresco</defName>
+        <label>Alfresco Lounge Terminal - Statesman Hotel</label>
+        <description>Restaurant terminal from the Statesman Hotel's Alfresco Lounge with operating hours and staff reminders.</description>
+        <category>CorporateMemo</category>
+        <author>Statesman Hotel Staff</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Restaurant Information</title>
+                <content>
+                    Statesman Hotel Restaurant
+                    Mon - Th 7 AM - 2 AM
+                    Sun 7 AM - 9 PM
+
+                    Remember, after using the restroom, don't just walk out without cleaning up. Take a look around and see if there are any toilet tissues lying about and pick them up. A customer always appreciates a clean restroom.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_StatesmanAlfresco</defName>
+        <label>Alfresco Lounge Terminal - Statesman Hotel</label>
+        <description>Restaurant terminal from the Statesman Hotel's Alfresco Lounge with operating hours and staff reminders.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_StatesmanAlfresco</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+</Defs>

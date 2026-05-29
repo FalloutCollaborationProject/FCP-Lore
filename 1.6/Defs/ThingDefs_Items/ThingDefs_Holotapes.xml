@@ -3,7 +3,7 @@
 
     <!--__________ Holotape Base __________-->
 
-    <ThingDef Name="HolotapeBase" Abstract="True">
+    <ThingDef Name="FCP_HolotapeBase" Abstract="True">
         <thingClass>ThingWithComps</thingClass>
         <category>Item</category>
         <drawerType>MapMeshOnly</drawerType>

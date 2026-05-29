@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--__________ Miscellaneous Entries __________-->
+
+    <!-- Hacked Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_Hacked</defName>
+        <label>Hacked Terminal Log</label>
+        <description>A RobCo terminal entry from Bethesda Office ruins showing security reprogramming.</description>
+        <category>TechnicalManual</category>
+        <author>Unknown Hacker</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>User Log</title>
+                <content>
+                    RobcOS v.85
+                    (C)2076 RobCo
+                    ========================
+                    | User Log:
+                    | >> Administrator (RobCoID 2398-H)
+                    | >> New_Admin: FUCK YOU
+                    | Welcome new user, FUCK YOU
+                    | >> New_Targeting_Param:
+                    | >>> FUCK YOU_userGroup
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_Hacked</defName>
+        <label>Hacked Terminal Log</label>
+        <description>A RobCo terminal entry from Bethesda Office ruins showing security reprogramming.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_Hacked</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- The Family's Terminal - Meresti Metro Station -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_TheFamily</defName>
+        <label>The Family's Terminal - Meresti Metro</label>
+        <description>Terminal from The Family's meeting area in Meresti Metro station documenting their laws and rules.</description>
+        <category>PersonalLog</category>
+        <author>The Family</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>The First Law</title>
+                <content>
+                    Use of this system is only by permission of Vance.
+
+                    The Five Laws of The Family
+
+                    The First Law "Feast not on the flesh: consume only the blood. This is our strength."
+
+                    We do not eat the flesh of those we kill for food. We will only drink of their blood and leave the body intact. The consumption of flesh is filthy and unclean. This action is what causes the humans to treat us like animals. We are not animals, we are The Family.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>The Second Law</title>
+                <content>
+                    The Second Law "Bear not the child: welcome only the exile. This is our fate."
+
+                    Because we carry the stain of our past in our bodies, we can never let it pass to our offspring who would in turn carry out our foul actions beginning the cycle anew. The Family must seek the Wasteland for others of its kind in order to maintain itself. That is our fate.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>The Third Law</title>
+                <content>
+                    The Third Law "Feed not for pleasure: Partake only to nourish. This is our dignity."
+
+                    We only kill the humans when we are hungry or when we must defend ourselves, we never hunt for sport or pleasure. We do not prey on children for they are not yet tainted by society's view on us. The Family will not tolerate murder.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>The Fourth Law</title>
+                <content>
+                    The Fourth Law "Seek not the sun's light: embrace only the shadows. This is our refuge."
+
+                    Because we are creatures of the night, we must not set foot in daylight. We move silently across the ground only under the watchful eye of the moon above. At the rising run, we must seek the embrace of the shadows and never again gaze at its brilliance. The Family seeks the dark as its refuge.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>The Fifth Law</title>
+                <content>
+                    The Fifth Law "Kill not our kindred: slay only the enemy. This is our justice."
+
+                    Above all, no member of The Family will ever take the life of another member without the consent of the current leader. Anyone disobeying this action, the most heinous of all our crimes, will be exiled from this place forever. We must not let our own inner demons cause us to fight amongst ourselves. We number only in the few, and we cannot risk extinction.
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>Feeding Grounds</title>
+                <content>
+                    Feeding Grounds
+
+                    These are perilous times for The Family. We must feed, but the Wasteland is a dangerous place. The only way to feed without massive loss of life is by getting close to the smaller human settlements. We will therefore use cunning and stealth to achieve our goals. No one is to forcibly enter any of their homes. We must keep our actions civilized. It is the only thing keeping us from being the animals they claim us to be.
+                </content>
+            </li>
+            <li>
+                <entryNumber>7</entryNumber>
+                <title>Regarding the Arefu Incident</title>
+                <content>
+                    Regarding Arefu
+                    I do not want an incident like this happening ever again! I was very clear that we are not to represent ourselves in a hostile way. The killing of the town's Brahmin was an act that was both unnecessary and potentially damaging to my work. I am dealing with a very delicate situation in this town and I will not have it undermined by action of revenge on humankind. Our time will come, I promise you.
+                    Vance
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_TheFamily</defName>
+        <label>The Family's Terminal - Meresti Metro</label>
+        <description>Terminal from The Family's meeting area in Meresti Metro station documenting their laws and rules.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_TheFamily</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Vance's Terminal - Meresti Metro Station -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_Vance</defName>
+        <label>Vance's Terminal - Meresti Metro</label>
+        <description>Terminal from Vance's living quarters in Meresti Metro station with vampire folklore research.</description>
+        <category>PreWarStory</category>
+        <author>Vance</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Vampires Defined</title>
+                <content>
+                    Vampires Defined
+
+                    Vampires are beings based on folklore that prey on humans for the purpose of obtaining their blood. In these fictitious stories the blood serves as both a food source and a center of power for the vampire. It is a common motif in these tales that a victim could become a vampire if bitten by one. Other noted attributes of the vampire are its ability to change into the form of a bat or wolf, to become gaseous at will, the ability to hypnotize the opposite gender and increased life span.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Daytime Fear</title>
+                <content>
+                    Daytime Fear
+
+                    It is interesting to note that the vampire is traditionally regarded in literature as having an aversion to sunlight. Many people believe this may stem from the misunderstanding of common phobias such as photophobia and heliophobia or even the actual physical issue of photosensitivity. In all of these accounts, the subject withdraws from daytime activities and is rarely seen outdoors. In the 18th century, with medical science in its infancy, this commonly gave rise to ridiculous accusations by the uniformed that these people were "strange" or "cursed". This is likely the reason vampire are awarded this attribute to their stories.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Vampires Destruction</title>
+                <content>
+                    Vampires Destruction
+
+                    Depending on the cultural source, there are several ways to kill or destroy a vampire. The most common is by driving a wooden stake through the vampire's heart. In some cultures, the stake was driven through the mouth or stomach as well. Other tales tell of decapitation or immolation being the preferred method of destruction along with anything else that can completely annihilate the vampire's physical form.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_Vance</defName>
+        <label>Vance's Terminal - Meresti Metro</label>
+        <description>Terminal from Vance's living quarters in Meresti Metro station with vampire folklore research.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_Vance</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Meresti Trainyard Security Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_MerestiSecurity</defName>
+        <label>Meresti Trainyard - Security Terminal</label>
+        <description>Security terminal from Meresti trainyard station with access controls and security protocols.</description>
+        <category>TechnicalManual</category>
+        <author>RobCo Industries</author>
+        <datePreWar>2077</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Unlock Security Area Door</title>
+                <content>
+                    Meresti Trainyard Station Security Terminal
+
+                    Unlock Security Area Door
+
+                    > Door Unlocked
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Activate Internal Security</title>
+                <content>
+                    Activate Internal Security
+
+                    > Security System Active
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Activate Protectron Security Unit</title>
+                <content>
+                    Activate Protectron Security Unit
+
+                    > Protectron Unit Active
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_MerestiSecurity</defName>
+        <label>Meresti Trainyard - Security Terminal</label>
+        <description>Security terminal from Meresti trainyard station with access controls and security protocols.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_MerestiSecurity</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Moriarty's Terminal - Megaton -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_Moriarty</defName>
+        <label>Moriarty's Terminal - Megaton</label>
+        <description>Colin Moriarty's personal terminal from his saloon in Megaton with dirt on residents and visitors.</description>
+        <category>PersonalLog</category>
+        <author>Colin Moriarty</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Residents - Jericho</title>
+                <content>
+                    Moriarty's Property Only!
+                    ===================
+                    Motivational Phrase of the Month: "When the chips are down, it means the Brahmin is empty."
+
+                    Residents
+
+                    Jericho
+
+                    Jericho's been a bad boy. I heard all about him and Jenny Stahl. Tried to slip her some of the old gun barrel while she's yelling no. He's lucky the "gun" didn't go off or that would have given the Stahl clan something to crap their pants about. He thinks he's king of the hill, walking around Megaton like he does all high and mighty. He tries to pull that shit with me and the Jenny Incident goes public.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Residents - Leo Stahl</title>
+                <content>
+                    Leo Stahl
+
+                    Never trust a junkie. That's what I've learned trying to deal with this piece of work. He wanders in here higher than a bird in flight and tries to make it with Nova. She slapped him silly after he didn't wanna pay, the good girl. I almost kicked him out myself, but he staggered out of here. That guy may just be the straw I need to break Andy's back.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Residents - Andy Stahl</title>
+                <content>
+                    Andy Stahl
+
+                    This guy is a real piece of work. Opening a fucking bar in my town? What a jackass. I swear, he's up to something. I'm going to have to think of a way to reduce his business a little. For now at least I still got my secret weapon... Nova: best refreshment in town.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Residents - Billy Creel</title>
+                <content>
+                    Billy Creel
+
+                    That Nuka-Cola swilling prick. Parading his little "daughter" Maggie around for all to see like a proud father... yeah right. Found her wandering the Wasteland my left ass cheek. I bet old Billy fed Maggie's parents that buckshot sandwich himself then added the little girl to his trophy collection in that shithole he calls a home. I better keep my eye on him.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>Residents - Doc Church</title>
+                <content>
+                    Doc Church
+
+                    Church thinks he such a freakin' badass. Everybody runs to him if they get a damn wood splinter and he just laps up their caps like a drunk downing alcohol. If people only knew he used to be a medic for the slavers at Paradise Falls, they'd run his sorry ass right out of town. But I think I'll keep that little nugget tucked away for later use.
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>Visitors - Mr. Burke</title>
+                <content>
+                    Visitors
+
+                    Mr. Burke
+
+                    This guy is a class A weirdo. One day I'm wiping down the bar and the fucker comes from out of nowhere... I didn't even hear the door open. He tells me he's here to wait for some sort of an opportunist to come through. Whatever. As long as he pays for his drinks, he can stay here until that damn bomb explodes in the center of town for all I care.
+                </content>
+            </li>
+            <li>
+                <entryNumber>7</entryNumber>
+                <title>Visitors - James (Vault 101)</title>
+                <content>
+                    James (Vault 101)
+
+                    So, out of nowhere, James came back to Megaton. Since he stayed here before he asked me where the hell he could get a lay of the land and find out what's going on in the world. I told him about Galaxy News Radio in the ruins of D.C., and that guy Three Dog. Then like that, he was gone again.
+
+                    I remember the first time he showed up almost twenty years ago. I never expected someone to actually want to or be able to get INTO a vault, but he must have had his reasons. He had his kid with him, some baby that wouldn't shut the fuck up. Normally I would have kicked someone like that out of my place, but he had a way with words. Then, like that, he ducks into Vault 101 and he's gone for almost twenty years. Nice guy I guess, but never spends enough caps.
+                </content>
+            </li>
+            <li>
+                <entryNumber>8</entryNumber>
+                <title>Tab</title>
+                <content>
+                    Tab
+
+                    Jericho - 32 caps (deadbeat bastard)
+                    Doc Church - 14 caps
+                    Nathan - 8 caps
+                    Stockholm - 8 caps
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_Moriarty</defName>
+        <label>Moriarty's Terminal - Megaton</label>
+        <description>Colin Moriarty's personal terminal from his saloon in Megaton with dirt on residents and visitors.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_Moriarty</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Brass Lantern Terminal - Megaton -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_BrassLantern</defName>
+        <label>Brass Lantern Terminal - Megaton</label>
+        <description>Andy Stahl's terminal from The Brass Lantern in Megaton tracking inventory and his brother Leo's problems.</description>
+        <category>PersonalLog</category>
+        <author>Andy Stahl</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Notes On Leo - Addiction</title>
+                <content>
+                    Welcome to The Brass Lantern computer system, Mr. Stahl. What would you like to do today?
+
+                    Notes On Leo
+
+                    I hate to even think that Leo is stealing from us, but he can't really seem to explain where the money is going. A cap or two is an honest mistake, but we're talking over a hundred per month here. I can't really accuse him of stealing, but something is going on.
+
+                    And the oddest thing... Doc Church seems to know something about Leo, but won't tell me.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Notes On Leo - Recovery</title>
+                <content>
+                    Notes On Leo
+
+                    Ever since that stranger helped Leo out with his problem, his counts have been coming up clean. I can't believe that he managed to hide his habits from me all this time. I guess we've grown apart over the last few years. That's something I'll have to work on fixing.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Cash Notes - Leo's Shortages</title>
+                <content>
+                    Cash Notes
+
+                    Leo's count came up short again this month. 124 caps this time. I'll have to keep an eye on him. He's either careless or a thief.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Cash Notes - Safe Theft</title>
+                <content>
+                    Cash Notes
+
+                    Leo's count came up short again this month. 124 caps this time. I'll have to keep an eye on him. He's either careless or a thief. And now the safe is coming up short too but Leo couldn't use a computer to save his life... could he?
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>Inventory Notes</title>
+                <content>
+                    Inventory Notes
+
+                    We're coming up short on a few things again. I can't explain it. We have enough liquor in the still to supply us each month, but yet we keep running short. Note to self: keep an eye on Leo. Between this and his cash shortages, I'm starting to think that something is going on.
+
+                    -Andy
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_BrassLantern</defName>
+        <label>Brass Lantern Terminal - Megaton</label>
+        <description>Andy Stahl's terminal from The Brass Lantern in Megaton tracking inventory and his brother Leo's problems.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_BrassLantern</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Reilly's Rangers Compound Terminals -->
+
+    <!-- Outer Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_RangersOuter</defName>
+        <label>Outer Terminal - Ranger Compound</label>
+        <description>Security terminal from Reilly's Rangers compound with a notice from Canterbury search party.</description>
+        <category>PersonalLog</category>
+        <author>Reilly's Rangers</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Notice from Canterbury Search Party</title>
+                <content>
+                    Reilly's Rangers Eyes Only
+                    If you're reading this, you better get your ass out of here!
+
+                    Notice from Canterbury Search Party
+
+                    Bad news. Rangers haven't seen Cheryl and got troubles of their own. Muties been snatching people left and right. Reilly's men are going to keep an eye out round here. They suggested we head to the western ruins, across the river and search there, so I guess that's what we'll do. Damn it, sis, why didn't you just wait for us?
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_RangersOuter</defName>
+        <label>Outer Terminal - Ranger Compound</label>
+        <description>Security terminal from Reilly's Rangers compound with a notice from Canterbury search party.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_RangersOuter</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Reilly's Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_ReillysTerminal</defName>
+        <label>Reilly's Terminal - Ranger Compound</label>
+        <description>Command terminal from Reilly's Rangers with personnel records, active contracts, and Reilly's personal mission logs.</description>
+        <category>PersonalLog</category>
+        <author>Reilly</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Personnel - Brick</title>
+                <content>
+                    Reilly's Rangers Eyes Only
+                    Hope you asked Reilly first, you dumbass!
+
+                    Current Personnel Listing
+
+                    Brick
+
+                    Name: Brick
+                    Position: Heavy Weapons
+                    Age: 24
+                    Term of Contract: Ongoing
+                    Merits/Demerits: 5/1
+                    Pay: 50 caps/mission
+                    Status: Active
+
+                    Brick is an outstanding asset to the Rangers. I find her zeal for destruction to be an asset rather than a liability. She is reliable and calm under fire, although can be a bit impatient during mission planning phases or debriefings. She seems fiercely loyal to the Rangers, and would be a great go-to person in the event of a falling out in the ranks.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Personnel - Butcher</title>
+                <content>
+                    Butcher
+
+                    Name: Butcher
+                    Position: Medic
+                    Age: 31
+                    Term of Contract: Ongoing
+                    Merits/Demerits: 3/0
+                    Pay: 70 caps/mission
+                    Status: Active
+
+                    Butcher is an important part of our team. He is prone to making rational and logical decisions even in the heat of battle which makes him ideal for a secondary command position. His medical skills are moderate at best with room for improvement, but he continues to scour every hospital and clinic we happen across to learn more about his trade. His loyalty to the Rangers is without question.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Personnel - Donovan</title>
+                <content>
+                    Donovan
+
+                    Name: Donovan
+                    Position: Tech
+                    Age: 35
+                    Term of Contract: Ongoing
+                    Merits/Demerits: 2/0
+                    Pay: 50 caps/mission
+                    Status: Active
+
+                    Donovan came to us highly recommended by my contact in the Brotherhood of Steel. He is an absolute wizard in regards to the repair of our firearms and personal armor. I wish he had more knowledge of electrical systems, hydraulics, etc which would help us circumvent obstacles we frequently encounter in the ruins, but hopefully this will improve with time. His loyalty to the Rangers seems solid, but it may take more time to gauge.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Personnel - Theo</title>
+                <content>
+                    Theo
+
+                    Name: Theo
+                    Position: Quartermaster
+                    Age: 22
+                    Term of Contract: Probationary
+                    Merits/Demerits: 1/0
+                    Pay: 35 caps/mission
+                    Status: Active
+
+                    Theo is our newest Ranger. His role is the Quartermaster for Ranger Compound; he cares for and organizes all our equipment and carries anything extra we might need into the ruins when we're on a mission. He is with us on a probationary contract which is up for review pending my decision.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>Contract - Mapping</title>
+                <content>
+                    Current Contracts
+
+                    Mapping Contract
+
+                    Contract: Ruins Mapping
+                    Status: Ongoing
+                    Projected Income: Unknown
+                    Acquired Income: 1765 caps
+
+                    Description: Terrain and structure mapping for District of Columbia urban sections. Make notes of enemy resistance, weapons caches, strategic positions, retreat points, etc. Provide detailed files in holotape format to buyer. Buyer to remain anonymous and pay via caps left in predetermined spot known only to Reilly.
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>Contract - Super Mutant Eradication</title>
+                <content>
+                    Super Mutant Eradication
+
+                    Contract: Super Mutant Cleansing
+                    Status: Ongoing
+                    Projected Income: Unknown
+                    Acquired Income: 2850 caps
+
+                    Description: Eradication of Super Mutants at Reilly's discretion. Buyer will award a varying amount of caps on a per kill basis. Proof of slain Super Mutants must be provided to buyer before payment is authorized (buyer has approved various body parts as proof).
+                </content>
+            </li>
+            <li>
+                <entryNumber>7</entryNumber>
+                <title>Personal Entry 176</title>
+                <content>
+                    Reilly's Personal Notes
+
+                    Personal Entry 176
+
+                    Well, Brick and Donovan were at it again today. I swear, if I have to break up another fight between the two of them I'll go crazy. As long as they keep it off mission, I guess I shouldn't care so much. I just want this group to stick together.
+
+                    It's been a month since we lost Dallas and Kira. They were assets to the Rangers and even though I've taken Theo on board to bolster our numbers, he's hardly a replacement. He's green, but maybe with enough Mutie blood splashing on his boots, he'll wise up real fast.
+                </content>
+            </li>
+            <li>
+                <entryNumber>8</entryNumber>
+                <title>Personal Entry 177</title>
+                <content>
+                    Personal Entry 177
+
+                    I've gotten the approval from "Mr. Smith" for the mapping project. It's going well so far... definitely easier than hunting down Muties. The caps have been good, so we'll stick with it unless something better pops up.
+
+                    We had a little bit of a run-in with Talon Company today. Those pricks always have to start shit with us... and unfortunately for them, Brick was with us. Needless to say it wasn't long before I heard Eugene's familiar whine and she started dropping them like flies. We got out of there with no casualties, but I think for now we'll give the Capital building a wide berth.
+                </content>
+            </li>
+            <li>
+                <entryNumber>9</entryNumber>
+                <title>Personal Entry 178</title>
+                <content>
+                    Personal Entry 178
+
+                    Butcher and I slept together tonight. He'd always been kind of flirty with me, but I took it as typical merc humor. Well, I was wrong. I hope this hasn't jeopardized our relationship on a professional level, but I really want it to continue. After all, it's been a while since I've been with anyone and it's nice to know someone out there cares.
+
+                    I think we're going to try and move on to the next sector of the downtown ruins this week. I want to finish Takoma Park first though. There's still a lot of nooks and crannies in that place. If it wasn't for the Talon Company and Super Mutant resistance in the area, we'd be done by now.
+                </content>
+            </li>
+            <li>
+                <entryNumber>10</entryNumber>
+                <title>Personal Entry 179</title>
+                <content>
+                    Personal Entry 179
+
+                    Well, Theo's been itching to go on a mapping trip, so I'm taking the entire group into Vernon Square. I usually like to leave someone back at the compound, but the sector is brimming with potential loot locations, so I need all the muscle I can get. Butcher is anxious to check out Our Lady of Hope Hospital and get supplies, while I want to set up a transmitter on the Statesman Hotel.
+
+                    I hear Brick and Donovan going at it again. I better get these guys on the road before another fist fight breaks out.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_ReillysTerminal</defName>
+        <label>Reilly's Terminal - Ranger Compound</label>
+        <description>Command terminal from Reilly's Rangers with personnel records, active contracts, and Reilly's personal mission logs.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_ReillysTerminal</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Rivet City Terminals -->
+
+    <!-- Abraham Washington's Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_AbrahamWashington</defName>
+        <label>Abraham Washington's Terminal - Rivet City</label>
+        <description>Private expedition notes from Abraham Washington documenting recovery efforts for historical artifacts.</description>
+        <category>PersonalLog</category>
+        <author>Abraham Washington</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Declaration Expedition</title>
+                <content>
+                    Abraham Washington - Private Notes
+                    Current Expeditions and Status
+
+                    Declaration Expedition
+
+                    Recovery of the Declaration of Independence seems to be a loss. That damn woman I hired, Sydney, she said she could do it. Haven't seen her in months. I bet she's dead or ran off with the advance I gave her. That's the last time I trust someone. Told Harkness to keep an eye out for her just in case she ever comes back to the city. That's what I get for sending a woman to do a man's job!
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Lincoln Artifacts Expedition</title>
+                <content>
+                    Lincoln Artifacts Expedition
+
+                    Came to find out through the grapevine that there are a bunch of Lincoln's artifacts still in the Museum of History. I think I may branch out from just collecting documents if I could get my hands on those gems. Only problem is I have to find someone braver than me who can get to the museum in one piece.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Liberty Bell Expedition</title>
+                <content>
+                    Liberty Bell Expedition
+
+                    Bumped into a traveler a little while ago who showed me what he said was a fragment of the actual Liberty Bell! Poppycock! The Liberty Bell is still intact and laying in the ruins of Philly. I have funded an expedition to that dump in hopes of having the entire bell brought back to my museum.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_AbrahamWashington</defName>
+        <label>Abraham Washington's Terminal - Rivet City</label>
+        <description>Private expedition notes from Abraham Washington documenting recovery efforts for historical artifacts.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_AbrahamWashington</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Capital Preservation Society Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_CapitalPreservation</defName>
+        <label>Capital Preservation Society - Rivet City</label>
+        <description>Museum information terminal from the Capital Preservation Society with descriptions of historical American documents.</description>
+        <category>PreWarStory</category>
+        <author>Abraham Washington</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Constitution of the U.S.A.</title>
+                <content>
+                    Welcome to the Capital Preservation Society
+
+                    Information
+                    Feel Free to Browse our Collection
+
+                    Constitution of the U.S.A.
+
+                    The Constitution of the United States was drafted in 1786 and adopted a year later by the Constitutional Convention of Philly. This document defines the organization of the U.S. government and sets forth the rules and regulations, known as articles. In addition, there are modifications made to the articles by ruling Presidents during their reigns known as amendments. The society owns the only known copy of the document to exist which was retrieved from the ruins of the National Archives in 2256.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Emancipation Proclamation</title>
+                <content>
+                    Emancipation Proclamation
+
+                    The Emancipation Proclamation was a document issued by the breathtakingly charismatic President Abraham Lincoln in 1862. This executive order was the beginning of the end of slavery in the United States. Although it was issued during the Civil War, making it a war measure, it paved the way for the Thirteenth Amendment of the Constitution which completely abolished slavery once and for all.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Gettysburg Address</title>
+                <content>
+                    Gettysburg Address
+
+                    The Capital Preservation Society is proud to have in its possession a copy of one of the most iconic and prolific speeches in United States history. This speech, given by the astonishingly intelligent Abraham Lincoln on Thursday, November 19, 1863, laid the groundwork for what would later become the basis of democracy in the United States and set the standards for a country with a government "by the people, for the people."
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Monroe Doctrine</title>
+                <content>
+                    Monroe Doctrine
+
+                    The Monroe Doctrine was presented in 1823 by the average and unremarkable President James Monroe. The document warns the European powers of the time not to interfere in the affairs of the Western Hemisphere, citing the examples of colonization and puppet governments as possible intolerances.
+                </content>
+            </li>
+            <li>
+                <entryNumber>5</entryNumber>
+                <title>U.S. Declaration of War on Germany</title>
+                <content>
+                    U.S. Declaration of War on Germany
+
+                    Part of our collection is a copy of the formal declaration of war made on Germany during World War II on December 11, 1941 by the government and endorsed by the President Franklin D. Roosevelt. While the document doesn't evoke the brilliance of other masterworks like the Emancipation Proclamation, it still served as a reminder to the world that the United States wasn't a power to be trifled with.
+                </content>
+            </li>
+            <li>
+                <entryNumber>6</entryNumber>
+                <title>U.S. Declaration of War on China</title>
+                <content>
+                    U.S. Declaration of War on China
+
+                    Although it is uncertain when the Declaration of War on China was made (some say 2066 when they invaded Alaska, others say 2067 when the first Power Armor suits were deployed to counter their forces), it is the last known document of note authored by the United States Government before the bombs fell. Had the Declaration had the tenacity and might of a stronger President behind it, say Abraham Lincoln, who's to say what the outcome of those tremulous years would have been?
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_CapitalPreservation</defName>
+        <label>Capital Preservation Society - Rivet City</label>
+        <description>Museum information terminal from the Capital Preservation Society with descriptions of historical American documents.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_CapitalPreservation</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Rivet City Security Terminals -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_RivetCitySecurity</defName>
+        <label>Security Terminals - Rivet City</label>
+        <description>Security access terminals throughout Rivet City with shift reports and incident logs.</description>
+        <category>PersonalLog</category>
+        <author>Rivet City Security</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Bridge Unlock</title>
+                <content>
+                    Rivet City Security Terminal
+                    Authorized Users Only
+
+                    Bridge Mechanism
+
+                    Activate Bridge
+
+                    Bridge activated...
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Security Shift Report</title>
+                <content>
+                    Shift Report
+
+                    4-day shift. No incidents. 10-day rotation is fine by me... for now. I'd like to see more guards posted at the bridge entry, but we don't have the manpower. Anyway, we're safe enough where we are and I'm overreacting. Harkness has assured me he'll handle any security concerns.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_RivetCitySecurity</defName>
+        <label>Security Terminals - Rivet City</label>
+        <description>Security access terminals throughout Rivet City with shift reports and incident logs.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_RivetCitySecurity</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Rivet City Clinic Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_RivetCityClinic</defName>
+        <label>Patient Data System - Rivet City Clinic</label>
+        <description>Medical records terminal from the Rivet City clinic with patient treatment logs.</description>
+        <category>ScientificData</category>
+        <author>Doctor Preston</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Patient List</title>
+                <content>
+                    Rivet City Science Lab Clinic
+                    Patient Data System
+
+                    Patient List
+
+                    Angela Staley - Mild Radiation Sickness
+                    Bannon - Laceration (head)
+                    C.J. Young - Dislocated Jaw
+                    Gary Staley - Addiction (Jet)
+                    James Hargrave - Addiction (Psycho)
+                    Paulie Cantelli - Broken Fingers
+                    Shrapnel - Amputation Followup
+                    Tammy Hargrave - Mirelurk Infection
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Patient Medical Records</title>
+                <content>
+                    Patient Medical Records
+
+                    Access Patient Medical Files?
+
+                    PROCESSING...
+
+                    ERROR: This function requires Doctor access level.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Appointment Schedule</title>
+                <content>
+                    Appointment Schedule
+
+                    Mon - C.J. Young, Shrapnel, Bannon
+                    Tue - James Hargrave
+                    Wed - Gary Staley, Paulie Cantelli
+                    Thu - Tammy Hargrave
+                    Fri - Angela Staley
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_RivetCityClinic</defName>
+        <label>Patient Data System - Rivet City Clinic</label>
+        <description>Medical records terminal from the Rivet City clinic with patient treatment logs.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_RivetCityClinic</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Bannon's Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_Bannon</defName>
+        <label>Bannon's Terminal - Rivet City</label>
+        <description>Council member Bannon's terminal with business dealings and political correspondence.</description>
+        <category>PersonalLog</category>
+        <author>Bannon</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Council Meeting Notes</title>
+                <content>
+                    Welcome to the Rivet City computer system.
+                    What would you like to do today?
+
+                    Council Meeting Notes
+
+                    Dr. Li is so preoccupied with her research she never has anything to contribute. Honestly, I think we should replace her. Harkness goes along with whatever I say, so I can keep him. But Holmes has been actively lobbying against me. I need to take care of this before it gets out of hand.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Marketplace Inventory</title>
+                <content>
+                    Marketplace Inventory
+
+                    Current Stock - Potomac Attire:
+                    Pre-War Clothing (varied)
+                    Fancy Lad Snack Cakes (12)
+                    Sugar Bombs (8)
+                    Wonderglue (3)
+                    Jet (6)
+                    Psycho (4)
+                    RadAway (2)
+
+                    Pending Shipments:
+                    Canterbury Commons caravan - weapons, ammo
+                    Crazy Wolfgang - miscellaneous
+
+                    Notes: Need to stock more chems. Market demand is high.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Vera's Performance Review</title>
+                <content>
+                    Vera's Performance Review
+
+                    Vera has been an asset to Potomac Attire. She knows how to work the customers and move inventory. However, her attitude toward me personally has become increasingly hostile. I may need to remind her who's in charge here. Perhaps cutting her commission percentage would help adjust her outlook.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_Bannon</defName>
+        <label>Bannon's Terminal - Rivet City</label>
+        <description>Council member Bannon's terminal with business dealings and political correspondence.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_Bannon</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Weatherly Hotel Terminal -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_WeatherlyHotel</defName>
+        <label>Weatherly Hotel Terminal - Rivet City</label>
+        <description>Weatherly Hotel registry terminal with guest records and management notes.</description>
+        <category>CorporateMemo</category>
+        <author>Belle Bonny</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Guest Registry</title>
+                <content>
+                    Weatherly Hotel
+                    Welcome to Rivet City's Premier Lodging
+
+                    Guest Registry
+
+                    Current Guests:
+                    Room 1 - Cindy Cantelli (Permanent Resident)
+                    Room 2 - Paulie Cantelli (Permanent Resident)
+                    Room 3 - Trinnie (Permanent Resident)
+                    Room 4 - Available
+                    Room 5 - Available
+                    Room 6 - Angela Staley (Permanent Resident)
+                    Room 7 - Mei Wong (Permanent Resident)
+                    Room 8 - Available
+                    Room 9 - C.J. Young (Permanent Resident)
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Management Notes</title>
+                <content>
+                    Management Notes
+
+                    Business has been steady. Most of my tenants are permanent residents which provides reliable income, though I'd like to see more travelers staying here. Perhaps I should speak with Bannon about advertising the hotel to visiting caravans.
+
+                    The Cantellis are behind on rent again. I hate to press them, but business is business. Maybe I can work out some kind of arrangement.
+
+                    -Belle
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_WeatherlyHotel</defName>
+        <label>Weatherly Hotel Terminal - Rivet City</label>
+        <description>Weatherly Hotel registry terminal with guest records and management notes.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_WeatherlyHotel</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <!-- Underworld Terminals -->
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_AhzrukhalTerminal</defName>
+        <label>Terminal - The Ninth Circle</label>
+        <description>Ahzrukhal's personal notes about his customers and business operations at The Ninth Circle.</description>
+        <category>PersonalLog</category>
+        <author>Ahzrukhal</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Notes on Carol</title>
+                <content>
+                    Notes on Carol
+
+                    There's something up with her. She's become so mopey lately, I wish I knew what it was, she might be a good customer for the special stock. That is, if I could get her away from Greta long enough to work on her.
+                </content>
+            </li>
+            <li>
+                <entryNumber>2</entryNumber>
+                <title>Notes on Patchwork</title>
+                <content>
+                    Notes on Patchwork
+
+                    I can't say enough good things about this boy. The only thing is, I need to remember to keep an eye on him. I've caught him behind the counter several times. I'd say that he's more trouble that he's worth, but somehow, he just keeps coming up with caps for booze.
+                </content>
+            </li>
+            <li>
+                <entryNumber>3</entryNumber>
+                <title>Notes on Snowflake</title>
+                <content>
+                    Notes on Snowflake
+
+                    What is with this guy? Well, honestly, I don't care. He buys up all my jet and keeps coming back for more. It doesn't really matter if he insists that he's a barber, I guess.
+                </content>
+            </li>
+            <li>
+                <entryNumber>4</entryNumber>
+                <title>Notes on Dr. Barrows</title>
+                <content>
+                    Notes on Dr. Barrows
+
+                    He has all sorts of good stuff in his office. I should find a way to get him out of town for a while so that I can restock my supply from his. Of course, the egghead never leaves that lab of his, especially since he got that passed out smoothskin in there.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_AhzrukhalTerminal</defName>
+        <label>Terminal - The Ninth Circle</label>
+        <description>Ahzrukhal's personal notes about his customers and business operations at The Ninth Circle.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_AhzrukhalTerminal</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+    <FCP.Core.Holotapes.HolotapeDef>
+        <defName>FCP_Holotape_WinthropTerminal</defName>
+        <label>Winthrop's Terminal - Underworld</label>
+        <description>Winthrop's maintenance notes on Underworld's failing electrical infrastructure.</description>
+        <category>TechnicalManual</category>
+        <author>Winthrop</author>
+        <datePreWar>0</datePreWar>
+        <entries>
+            <li>
+                <entryNumber>1</entryNumber>
+                <title>Notes on the Electrical System</title>
+                <content>
+                    Notes on the Electrical System
+
+                    Junction AA76 - Needs a new fuse box
+                    Junction AA84 - Leaking air
+                    Junction AB36 - Relay fan busted
+                    Junction AB40 - This one is just fucked. Reroute.
+                    Junction AC22 - Possibly on fire. Check it out later.
+                    Junction AC67 - Something stinks. A Molerat?
+                    Junction AC88 - Missing parts. All of them.
+                </content>
+            </li>
+        </entries>
+    </FCP.Core.Holotapes.HolotapeDef>
+
+    <ThingDef ParentName="FCP_HolotapeBase">
+        <defName>FCP_Holotape_WinthropTerminal</defName>
+        <label>Winthrop's Terminal - Underworld</label>
+        <description>Winthrop's maintenance notes on Underworld's failing electrical infrastructure.</description>
+        <comps>
+            <li Class="FCP.Core.Holotapes.CompProperties_Holotape">
+                <contentDef>FCP_Holotape_WinthropTerminal</contentDef>
+            </li>
+        </comps>
+    </ThingDef>
+
+</Defs>

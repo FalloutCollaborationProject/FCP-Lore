@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
     <!--__________ Government Entries __________-->
@@ -11,7 +11,6 @@
         <description>Classified military reports from the Pentagon Library archives.</description>
         <category>MilitaryReport</category>
         <author>U.S. Military</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -82,7 +81,6 @@
         <description>A Metro D.C. Transit Authority service terminal log with system failure warnings.</description>
         <category>TechnicalManual</category>
         <author>MDCTA</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -121,7 +119,6 @@
         <description>National Catastrophe Relief Auxiliary terminal log from Nancy Kroydon documenting the aftermath of nuclear war.</description>
         <category>PersonalLog</category>
         <author>Nancy Kroydon, NCRA Presiding Officer</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -226,7 +223,6 @@
         <description>Pre-war 911 emergency call recordings from Germantown Police headquarters.</description>
         <category>BroadcastRecording</category>
         <author>Germantown Police Department</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -321,7 +317,6 @@
         <description>Corrupted police terminal log with emergency cell release commands.</description>
         <category>TechnicalManual</category>
         <author>Germantown Police Department</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -362,7 +357,6 @@
         <description>Corrupted police terminal log with contraband storage access.</description>
         <category>TechnicalManual</category>
         <author>Germantown Police Department</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -403,7 +397,6 @@
         <description>Pre-war police terminal log with vehicle impound case files.</description>
         <category>CorporateMemo</category>
         <author>Germantown Police Department</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -482,7 +475,6 @@
         <description>Educational terminal from the Museum of Technology with fascinating space facts.</description>
         <category>PreWarStory</category>
         <author>Museum of Technology</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -580,7 +572,6 @@
         <description>Terminal from B. Bell, Research Lead at the Museum of Technology, with log entries about exhibits and operations.</description>
         <category>CorporateMemo</category>
         <author>B. Bell, Research Lead</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -671,7 +662,6 @@
         <description>Maintenance department terminal from the Museum of Technology with bulletins from Derek Remmings.</description>
         <category>CorporateMemo</category>
         <author>Derek Remmings, Maintenance Coordinator</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -745,7 +735,6 @@
         <description>Public information terminal from the Museum of Technology with exhibit guides and event schedules.</description>
         <category>PreWarStory</category>
         <author>Museum of Technology</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -883,7 +872,6 @@
         <description>Security terminal from the Museum of Technology with bulletins from Lead Curator Donald Cohen.</description>
         <category>CorporateMemo</category>
         <author>Donald Cohen, Lead Museum Curator</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -951,7 +939,6 @@
         <description>RobCo trespasser management terminal from the Museum of Technology security system.</description>
         <category>TechnicalManual</category>
         <author>RobCo Industries</author>
-        <datePreWar>2076</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -970,7 +957,6 @@
                     |  Default Targeting_Param:
                     |  RobcoIndustrial_userGroup
                     ========================
-
 
                     Loading LOG file...
                 </content>
@@ -997,7 +983,6 @@
         <description>Interactive exhibit terminal for the Delta IX Rocket display at the Museum of Technology.</description>
         <category>TechnicalManual</category>
         <author>Museum of Technology</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1034,7 +1019,6 @@
         <description>Interactive quiz terminal from the National Archives testing knowledge of the Declaration of Independence with prize vouchers.</description>
         <category>PreWarStory</category>
         <author>National Archives</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1187,7 +1171,6 @@
         <description>Prize redemption terminal from the National Archives offering Med-Tek Fruit Mentats products.</description>
         <category>PreWarStory</category>
         <author>National Archives</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1230,7 +1213,6 @@
         <description>Administrative terminal from the National Archives with notices about exhibits, security, and facility management.</description>
         <category>CorporateMemo</category>
         <author>Administrator Berkeley</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1283,7 +1265,6 @@
         <description>Robotics control terminals from the National Archives managing Declaration of Independence reenactment Protectrons.</description>
         <category>TechnicalManual</category>
         <author>National Archives Robotics Team</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1455,7 +1436,6 @@
         <description>Dysfunctional HR management system workstation from the DC Metro Office of Urban Planning showing bureaucratic absurdity.</description>
         <category>CorporateMemo</category>
         <author>DC Metro Office of Urban Planning</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1554,7 +1534,6 @@
         <description>Medical injury report terminal from Our Lady of Hope Hospital documenting unusual patient cases.</description>
         <category>CorporateMemo</category>
         <author>Our Lady of Hope Hospital</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1622,7 +1601,6 @@
         <description>Military satellite control terminal with logs documenting attempts to locate and activate USDOD orbital weapons platform.</description>
         <category>MilitaryReport</category>
         <author>U.S. Department of Defense</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1732,7 +1710,6 @@
         <description>Metro transit authority emergency terminal with containment door controls and espionage act warnings.</description>
         <category>TechnicalManual</category>
         <author>D.C. Transit Authority</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>

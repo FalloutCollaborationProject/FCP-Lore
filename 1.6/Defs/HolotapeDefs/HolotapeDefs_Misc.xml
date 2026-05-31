@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
     <!--__________ Miscellaneous Entries __________-->
@@ -11,7 +11,6 @@
         <description>A RobCo terminal entry from Bethesda Office ruins showing security reprogramming.</description>
         <category>TechnicalManual</category>
         <author>Unknown Hacker</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -50,7 +49,6 @@
         <description>Terminal from The Family's meeting area in Meresti Metro station documenting their laws and rules.</description>
         <category>PersonalLog</category>
         <author>The Family</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -141,7 +139,6 @@
         <description>Terminal from Vance's living quarters in Meresti Metro station with vampire folklore research.</description>
         <category>PreWarStory</category>
         <author>Vance</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -192,7 +189,6 @@
         <description>Security terminal from Meresti trainyard station with access controls and security protocols.</description>
         <category>TechnicalManual</category>
         <author>RobCo Industries</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -245,7 +241,6 @@
         <description>Colin Moriarty's personal terminal from his saloon in Megaton with dirt on residents and visitors.</description>
         <category>PersonalLog</category>
         <author>Colin Moriarty</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -354,7 +349,6 @@
         <description>Andy Stahl's terminal from The Brass Lantern in Megaton tracking inventory and his brother Leo's problems.</description>
         <category>PersonalLog</category>
         <author>Andy Stahl</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -431,7 +425,6 @@
         <description>Security terminal from Reilly's Rangers compound with a notice from Canterbury search party.</description>
         <category>PersonalLog</category>
         <author>Reilly's Rangers</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -467,7 +460,6 @@
         <description>Command terminal from Reilly's Rangers with personnel records, active contracts, and Reilly's personal mission logs.</description>
         <category>PersonalLog</category>
         <author>Reilly</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -642,7 +634,6 @@
         <description>Private expedition notes from Abraham Washington documenting recovery efforts for historical artifacts.</description>
         <category>PersonalLog</category>
         <author>Abraham Washington</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -696,7 +687,6 @@
         <description>Museum information terminal from the Capital Preservation Society with descriptions of historical American documents.</description>
         <category>PreWarStory</category>
         <author>Abraham Washington</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -779,7 +769,6 @@
         <description>Security access terminals throughout Rivet City with shift reports and incident logs.</description>
         <category>PersonalLog</category>
         <author>Rivet City Security</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -826,7 +815,6 @@
         <description>Medical records terminal from the Rivet City clinic with patient treatment logs.</description>
         <category>ScientificData</category>
         <author>Doctor Preston</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -895,7 +883,6 @@
         <description>Council member Bannon's terminal with business dealings and political correspondence.</description>
         <category>PersonalLog</category>
         <author>Bannon</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -962,7 +949,6 @@
         <description>Weatherly Hotel registry terminal with guest records and management notes.</description>
         <category>CorporateMemo</category>
         <author>Belle Bonny</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1020,7 +1006,6 @@
         <description>Ahzrukhal's personal notes about his customers and business operations at The Ninth Circle.</description>
         <category>PersonalLog</category>
         <author>Ahzrukhal</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1078,7 +1063,6 @@
         <description>Winthrop's maintenance notes on Underworld's failing electrical infrastructure.</description>
         <category>TechnicalManual</category>
         <author>Winthrop</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>

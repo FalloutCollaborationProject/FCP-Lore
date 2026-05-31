@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
     <!--__________ Brotherhood of Steel Entries __________-->
-
 
     <!-- Jefferson Memorial - Water Distribution Records -->
 
@@ -12,7 +11,6 @@
         <description>Official Brotherhood of Steel water distribution mission reports and resource logs.</description>
         <category>MilitaryReport</category>
         <author>Brotherhood of Steel</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -105,7 +103,6 @@
         <description>A terminal containing pre-war Liberty Prime project records and post-war Brotherhood diagnostics.</description>
         <category>MilitaryReport</category>
         <author>U.S. Military / Brotherhood of Steel</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -289,7 +286,6 @@
         <description>Brotherhood of Steel archives containing Roger Maxson's diary and family lineage records.</description>
         <category>PersonalLog</category>
         <author>Brotherhood of Steel</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -442,7 +438,6 @@
         <description>Brotherhood of Steel laboratory terminal with research notes, tactical assessments, and announcements.</description>
         <category>ScientificData</category>
         <author>Brotherhood of Steel</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -566,7 +561,6 @@
         <description>Brotherhood of Steel weapon research database with technical specifications.</description>
         <category>TechnicalManual</category>
         <author>Brotherhood of Steel</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -701,9 +695,8 @@
         <defName>FCP_Holotape_CitadelMedical</defName>
         <label>Citadel Medical Terminal</label>
         <description>Brotherhood of Steel medical records and casualty reports.</description>
-        <category>MedicalRecord</category>
+        <category>MilitaryReport</category>
         <author>Brotherhood of Steel Medical Staff</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -796,7 +789,6 @@
         <description>Personal terminal entries from Squire Arthur Maxson, including diary entries and stories.</description>
         <category>PersonalLog</category>
         <author>Squire Arthur Maxson</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -938,7 +930,6 @@
         <description>Personal terminal entries from Elder Owyn Lyons regarding Squire Maxson and family matters.</description>
         <category>PersonalLog</category>
         <author>Elder Owyn Lyons</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1027,7 +1018,6 @@
         <description>Enclave field operations terminal log with creature analysis from Springvale power plant outpost.</description>
         <category>ScientificData</category>
         <author>Enclave Field Operations</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1094,7 +1084,6 @@
         <description>Enclave field operations terminal log with creature research and mission orders from Temple of the Union outpost.</description>
         <category>ScientificData</category>
         <author>Enclave Field Operations</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1193,7 +1182,6 @@
         <description>Enclave field operations terminal log with creature analysis from silo outpost near Springvale.</description>
         <category>ScientificData</category>
         <author>Enclave Field Operations</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1275,7 +1263,6 @@
         <description>Enclave field operations terminal log from Old Olney outpost with deathclaw mission orders.</description>
         <category>MilitaryReport</category>
         <author>Enclave Field Operations</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1332,7 +1319,6 @@
         <description>Enclave field operations terminal log from Camp RHO with RHO Chip experimental defense system instructions.</description>
         <category>TechnicalManual</category>
         <author>Enclave Research and Development</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1399,7 +1385,6 @@
         <description>Enclave field operations terminal log from Crater Camp with crater exploration mission briefing.</description>
         <category>TechnicalManual</category>
         <author>Enclave Research and Development</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1466,7 +1451,6 @@
         <description>Enclave peacekeeping operations terminal log with weapon inventory and transient census from robot repair center outpost.</description>
         <category>MilitaryReport</category>
         <author>Enclave Peacekeeping and Recovery</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1533,7 +1517,6 @@
         <description>Enclave delivery terminal from Raven Rock Level 1B documenting deathclaw specimen transport to bio-lab.</description>
         <category>MilitaryReport</category>
         <author>J.J. Black, Fauna Detail Charlie</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1580,7 +1563,6 @@
         <description>Brotherhood Outcasts terminal log with field reports from Protector Casdin and Defender Rockfowl.</description>
         <category>MilitaryReport</category>
         <author>Brotherhood Outcasts</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1638,7 +1620,6 @@
         <description>Brotherhood Outcasts research terminal log analyzing laser weapon technology and maintenance.</description>
         <category>TechnicalManual</category>
         <author>J. T. Benning, Brotherhood Outcasts</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1703,7 +1684,6 @@
         <description>Brotherhood Outcasts research terminal log analyzing captured Enclave armor radiation resistance.</description>
         <category>TechnicalManual</category>
         <author>T. T. Bowser, Brotherhood Outcasts</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1746,7 +1726,6 @@
         <description>Brotherhood Outcasts research terminal log analyzing minigun ballistic weapon systems.</description>
         <category>TechnicalManual</category>
         <author>H. P. Smith, Brotherhood Outcasts</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1789,7 +1768,6 @@
         <description>Brotherhood Outcasts research terminal log documenting failed missile launcher accuracy modification attempts.</description>
         <category>TechnicalManual</category>
         <author>J. J. Browne, Brotherhood Outcasts</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1832,7 +1810,6 @@
         <description>Brotherhood Outcasts research terminal log analyzing plasma weapon technology and toroid mechanics.</description>
         <category>TechnicalManual</category>
         <author>R. R. Rasting, Brotherhood Outcasts</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1875,7 +1852,6 @@
         <description>Brotherhood Outcasts research terminal log analyzing pulse grenade anti-robotic weaponry.</description>
         <category>TechnicalManual</category>
         <author>L. J. Rogers, Brotherhood Outcasts</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1920,7 +1896,6 @@
         <description>A Vault-Tec terminal log from the Pentagon Library containing classified vault experiment data.</description>
         <category>CorporateMemo</category>
         <author>Vault-Tec Corporation</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -2059,7 +2034,6 @@
         <description>Vault 112 auxiliary command terminal with Dr. Braun's simulation logs and failsafe program documentation.</description>
         <category>ScientificData</category>
         <author>Doctor Stanislaus Braun</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -2215,7 +2189,6 @@
         <description>Security Chief's confidential terminal with plans for dealing with rebel elements in Vault 101.</description>
         <category>MilitaryReport</category>
         <author>Chief Security Officer, Vault 101</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -2258,7 +2231,6 @@
         <description>Vault 101 Overseer's personal terminal with security dossiers, scouting reports, and official Vault-Tec instructions.</description>
         <category>MilitaryReport</category>
         <author>Overseer, Vault 101</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -2421,7 +2393,6 @@
         <description>Vault 101 clinic medical terminal with confidential patient files and experimental research logs.</description>
         <category>ScientificData</category>
         <author>Vault 101 Medical Staff</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -2500,7 +2471,6 @@
         <description>Vault 106 security terminal with urgent notices regarding air filtration irregularities and Control Sequence release protocols.</description>
         <category>MilitaryReport</category>
         <author>Overseer, Vault 106</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -2561,7 +2531,6 @@
         <description>Vault 106 Overseer's terminal documenting preparations for psychoactive gas release experiment.</description>
         <category>CorporateMemo</category>
         <author>Overseer, Vault 106</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -2613,7 +2582,6 @@
         <description>Vault 106 resident terminal showing effects of psychoactive gas exposure through increasingly erratic personal logs.</description>
         <category>PersonalLog</category>
         <author>Anonymous Vault 106 Resident</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -2718,7 +2686,6 @@
         <description>Personal journal entries from Vault 87 Technician Peter Stevens documenting his mental breakdown after the disappearance of his son.</description>
         <category>PersonalLog</category>
         <author>Peter Stevens, Technician Class 3</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -2836,7 +2803,6 @@
         <description>Vault 87 engineering section terminal with maintenance logs from Daniel Koster revealing suspicious power draws and a desperate hidden message.</description>
         <category>TechnicalManual</category>
         <author>Daniel Koster, Maintenance Chief</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -2949,7 +2915,6 @@
         <description>Vault 87 medical records terminal listing 93 deceased residents, 87 coded as Unexplained/Undefined deaths from the EEP experiments.</description>
         <category>ScientificData</category>
         <author>Medical Records Staff, Vault 87</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3043,7 +3008,6 @@
         <description>Vault 87 Chief Physician terminal documenting Dr. Wayne Merrick's FEV experiments on vault residents in the Evolutionary Experimentation Program.</description>
         <category>ScientificData</category>
         <author>Dr. Wayne Merrick, Chief Physician</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3117,7 +3081,6 @@
         <description>Vault 87 laboratory terminal with notices regarding radiation safety protocols and termination procedures for EEP test subjects.</description>
         <category>TechnicalManual</category>
         <author>Lab Staff, Vault 87</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3174,7 +3137,6 @@
         <description>Vault 87 Overseer's terminal with security dossiers, mission reports, and official Vault-Tec instructions regarding the FEV experiments and GECK.</description>
         <category>CorporateMemo</category>
         <author>Overseer, Vault 87</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3289,7 +3251,6 @@
         <description>Vault 92 engineering terminal with maintenance trouble tickets revealing infrastructure issues and section 4 security upgrades.</description>
         <category>TechnicalManual</category>
         <author>Engineering Staff, Vault 92</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3385,7 +3346,6 @@
         <description>Vault 92 supply shop terminal from Gordie Sumner with requests about headphones, pudding supplies, and a suspicious weapon deal.</description>
         <category>CorporateMemo</category>
         <author>Gordie Sumner, Trading Post 92</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3447,7 +3407,6 @@
         <description>Vault 92 Overseer Richard Rubin's terminal documenting the White Noise Mind Suggestion Combat Experimentation that drove residents insane.</description>
         <category>CorporateMemo</category>
         <author>Richard Rubin, Overseer Vault 92</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3509,7 +3468,6 @@
         <description>Vault 92 studio supervisor terminal from Parker Livingsteen noticing audio signal anomalies and documenting inappropriate relationships.</description>
         <category>PersonalLog</category>
         <author>Parker Livingsteen, Studio Supervisor</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3569,7 +3527,6 @@
         <description>Vault 92 violinist Zoe Hammerstein's personal diary showing progressive mental deterioration from white noise exposure.</description>
         <category>PersonalLog</category>
         <author>Zoe Hammerstein</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3628,7 +3585,6 @@
         <description>Vault 92 laboratory terminal from Professor John Malleus documenting white noise experiment failures and desperate pleas to the Overseer.</description>
         <category>ScientificData</category>
         <author>Professor John Malleus</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3700,7 +3656,6 @@
         <description>Vault-Tec Corporate Headquarters employee terminal with important bulletins and security procedures from Washington D.C.</description>
         <category>CorporateMemo</category>
         <author>Vault-Tec Corporate Headquarters</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3723,7 +3678,7 @@
                 <content>
                     Message 0102A Vault 112 Done!
 
-                    This is just a quick announcement to let you know that work on Vault 112 has been completed sporting the latest and greatest in "Vault-Technology"®. Way to go, Tec-ites!
+                    This is just a quick announcement to let you know that work on Vault 112 has been completed sporting the latest and greatest in "Vault-Technology"Ã‚Â®. Way to go, Tec-ites!
                 </content>
             </li>
             <li>
@@ -3781,7 +3736,6 @@
         <description>Vault-Tec Corporate Headquarters system operation terminal with security notices and administrative bulletins. Three stations exist throughout Administration.</description>
         <category>CorporateMemo</category>
         <author>Vault-Tec System Operations</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3864,7 +3818,6 @@
         <description>Confessor Cromwell's terminal from the Children of Atom building in Megaton with religious teachings.</description>
         <category>PreWarStory</category>
         <author>Confessor Cromwell</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3939,7 +3892,6 @@
         <description>Decrypted terminal log revealing Mama Dolce's as a Chinese espionage front operation.</description>
         <category>MilitaryReport</category>
         <author>People's Republic of China</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -3989,7 +3941,6 @@
         <description>Communist propaganda terminal from Comrade Cheng's suite promoting unification under Chinese leadership.</description>
         <category>PersonalLog</category>
         <author>Comrade Cheng</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -4047,7 +3998,6 @@
         <description>Raider leader's journal from Springvale school documenting operations and plans to breach Vault 101.</description>
         <category>PersonalLog</category>
         <author>Springvale Raider Leader</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>

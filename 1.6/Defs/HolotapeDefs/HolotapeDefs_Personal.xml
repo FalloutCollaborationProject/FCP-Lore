@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
     <!--__________ Personal Entries __________-->
@@ -11,7 +11,6 @@
         <description>A terminal entry from Moira Brown's research logs at Craterside Supply.</description>
         <category>PersonalLog</category>
         <author>Moira Brown, Megaton</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -27,12 +26,12 @@
                     DAILY LOG:
 
                     Experiment Reports:
-                    Irradiated Agriculture—Good response from mutfruit, strangely aggressive response to baseline sample. Purified water very helpful.
-                    Deathclaw Communication—No language that I can discern, unless "Mutilating assistants" counts. What would they have to say, anyway?
+                    Irradiated AgricultureÃ¢â‚¬â€Good response from mutfruit, strangely aggressive response to baseline sample. Purified water very helpful.
+                    Deathclaw CommunicationÃ¢â‚¬â€No language that I can discern, unless "Mutilating assistants" counts. What would they have to say, anyway?
                     Jefferson Purifier - Guards still refuse to allow access to see how the Purifier works. They say it's to prevent sabotage, but I think they aren't entirely certain.
 
                     Personal Note:
-                    Just shipped out another crate of survival guides, and the caravans just can't seem to get enough of them. Sheriff Simms says they've really put Megaton on the map—pretty ironic, since I've had to redraw that map about a million times since the first edition came out 20 years ago. At least all the attention means there's no shortage of assistants, but I'm never getting another assistant like the Lone Wanderer who stumbled into my shop so long ago.
+                    Just shipped out another crate of survival guides, and the caravans just can't seem to get enough of them. Sheriff Simms says they've really put Megaton on the mapÃ¢â‚¬â€pretty ironic, since I've had to redraw that map about a million times since the first edition came out 20 years ago. At least all the attention means there's no shortage of assistants, but I'm never getting another assistant like the Lone Wanderer who stumbled into my shop so long ago.
 
                     Just about everyone in the Capital Wasteland has a story about the Lone Wanderer, even though precious few ever really knew him. But that doesn't stop them from telling crazy tall tales about how he saved their lives, or blew up a mountain, or ate a car or something. Heck, if you get Simms drunk, he'll tell you that his dad died because of the Wanderer, even though he saved the town. People can't even agree on whether the Wanderer was a man or a woman, much less a saint or a monster. But they all agree on one thing: the Lone Wanderer changed the Capital Wasteland.
 
@@ -63,7 +62,6 @@
         <description>A terminal entry from Anchorage Memorial with a hidden stash location.</description>
         <category>PersonalLog</category>
         <author>Unknown</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -100,14 +98,13 @@
         <description>A terminal with auto-dictation software showing pre-war corporate messages and disturbing post-war entries.</description>
         <category>PersonalLog</category>
         <author>Herman Granger / Unknown</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
                 <title>About Auto-Dictation Software</title>
                 <content>
                     Dunwich Borers LLC
-                    Auto-dictation software © 2074 PagSoft
+                    Auto-dictation software Ã‚Â© 2074 PagSoft
 
                     Welcome, HERMAN GRANGER
                     Available records in memory:
@@ -194,7 +191,6 @@
         <description>A desperate journal entry from a survivor trapped in the Dunwich Building.</description>
         <category>PersonalLog</category>
         <author>Unknown Survivor</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -228,7 +224,6 @@
         <description>Doctor Lesko's personal terminal from his office in Marigold metro station documenting his genetic research on giant ants.</description>
         <category>ScientificData</category>
         <author>Doctor Lesko</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -280,7 +275,6 @@
         <description>Doctor Lesko's portable computer terminal from the queen ant's hatchery in Marigold station with experimental controls.</description>
         <category>TechnicalManual</category>
         <author>Doctor Lesko</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -334,7 +328,6 @@
         <description>W. Brandice's terminal log from Grayditch chronicling his family's struggle against fire ants and his past with the Enclave.</description>
         <category>PersonalLog</category>
         <author>W. Brandice</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -417,7 +410,6 @@
         <description>Personal terminal log from Hamilton's family shelter documenting survival after the Great War.</description>
         <category>PersonalLog</category>
         <author>Hamilton Family</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -501,7 +493,6 @@
         <description>Scientific field journal documenting behavioral research on feral ghouls at an irradiated pool site.</description>
         <category>ScientificData</category>
         <author>Isabella Proud</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -604,7 +595,6 @@
         <description>Shared community terminal log from Hilltop Farm documenting post-war farm life and survival.</description>
         <category>PersonalLog</category>
         <author>Hilltop Farm Community</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -691,7 +681,6 @@
         <description>Private diary entries from Scribe Bigsley documenting his mental decline during the water distribution mission.</description>
         <category>PersonalLog</category>
         <author>Scribe Bigsley</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -821,7 +810,6 @@
         <description>Research journal from Ryan Brigg documenting his experiments to make molerat meat edible while masquerading as a raider.</description>
         <category>PersonalLog</category>
         <author>Ryan Brigg</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -906,7 +894,6 @@
         <description>Final terminal entry from Elise Walton, a CPA at the GAO, written as the bombs fell on October 23, 2077.</description>
         <category>PersonalLog</category>
         <author>Elise Walton</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -942,7 +929,6 @@
         <description>Diary entries from a rogue surgeon at Red Racer factory documenting control chip experiments on ghouls and super mutants.</description>
         <category>PersonalLog</category>
         <author>Unknown Surgeon</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1016,7 +1002,6 @@
         <description>Personal terminal from Seagrave Holmes with weapon design ideas and political correspondence with Doctor Li.</description>
         <category>PersonalLog</category>
         <author>Seagrave Holmes</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1080,7 +1065,6 @@
         <description>Private computer from Doctor Pinkerton with Rivet City founding records and android experiment logs.</description>
         <category>PersonalLog</category>
         <author>Doctor Horace Pinkerton</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1161,7 +1145,6 @@
         <description>Personal terminal from Doctor Madison Li documenting hydroponics research progress and council meeting records.</description>
         <category>PersonalLog</category>
         <author>Doctor Madison Li</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1203,7 +1186,6 @@
         <description>Herbert Dashwood's personal database documenting his adventures, companions, and discoveries across the Capital Wasteland.</description>
         <category>PersonalLog</category>
         <author>Herbert "Daring" Dashwood</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1416,7 +1398,6 @@
         <description>Doctor Barrows' comprehensive research on post-necrotic human biology and ghoul mutations.</description>
         <category>ScientificData</category>
         <author>Doctor Barrows</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1477,7 +1458,6 @@
         <description>Tulip's personal project transcribing Paradise Lost from pre-war literature.</description>
         <category>PersonalLog</category>
         <author>Tulip</author>
-        <datePreWar>0</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>

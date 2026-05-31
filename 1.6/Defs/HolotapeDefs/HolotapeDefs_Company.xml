@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
     <!--__________ Corporate Entries __________-->
@@ -11,7 +11,6 @@
         <description>A newspaper terminal from the Capital Post offices with archived stories.</description>
         <category>BroadcastRecording</category>
         <author>Capital Post Staff</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -113,7 +112,7 @@
 
                     Add to the sinister forensic findings this statement from Christopher Atkinson, the one surviving victim of the adolescent assassin, and it becomes clear that the Pint-Sized Slasher does indeed walk among us: "The clown! The clown! He's going to kill us all, do you understand me? He stabbed my brother Shaun right in the face! He killed my brother! The little clown!"
 
-                    But assuming the Pint-Sized Slasher is indeed a real, tangible threat to the peace loving residents of D.C. suburbia, one question remains: why? What could possible motivate a child to don a clown mask and murder innocent people in cold blood? We may never know. At least not until the miniature maniac is brought to justice. Until then, all we can do is lock our doors, kiss our children goodnight… and pray they live to see morning.
+                    But assuming the Pint-Sized Slasher is indeed a real, tangible threat to the peace loving residents of D.C. suburbia, one question remains: why? What could possible motivate a child to don a clown mask and murder innocent people in cold blood? We may never know. At least not until the miniature maniac is brought to justice. Until then, all we can do is lock our doors, kiss our children goodnightÃ¢â‚¬Â¦ and pray they live to see morning.
                 </content>
             </li>
         </entries>
@@ -138,7 +137,6 @@
         <description>Corporate terminal log from Hubris Comics Publishing with release schedules and company announcements.</description>
         <category>CorporateMemo</category>
         <author>Hubris Comics Publishing</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -242,7 +240,6 @@
         <description>Beta test terminal for Hubris Comics' text adventure game Reign of Grelok.</description>
         <category>PreWarStory</category>
         <author>Hubris Software</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -368,7 +365,6 @@
         <description>Front desk terminal log from L.O.B. Enterprises showing emergency protocols and the federal raid.</description>
         <category>CorporateMemo</category>
         <author>L.O.B. Enterprises</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -447,7 +443,6 @@
         <description>Terminal log from Sam Johnson with harassment warnings and emergency protocols.</description>
         <category>CorporateMemo</category>
         <author>L.O.B. Enterprises</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -518,7 +513,6 @@
         <description>Security terminal log from L.O.B. Enterprises with protocols and security system status.</description>
         <category>CorporateMemo</category>
         <author>L.O.B. Enterprises Security</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -601,7 +595,6 @@
         <description>Research and development terminal log from L.O.B. Enterprises documenting Project Zhu-Rong weapon prototypes.</description>
         <category>TechnicalManual</category>
         <author>L.O.B. Enterprises RD</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -666,7 +659,6 @@
         <description>CEO terminal log from L.O.B. Enterprises with classified weapon invoice.</description>
         <category>CorporateMemo</category>
         <author>L.O.B. Enterprises</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -721,7 +713,6 @@
         <description>Terminal log from Jeanne McAndrews documenting workplace harassment and her responses.</description>
         <category>CorporateMemo</category>
         <author>Jeanne McAndrews</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -800,7 +791,6 @@
         <description>Operations terminal log from Mama Dolce's Food Distribution plant with diagnostics and corporate memos.</description>
         <category>CorporateMemo</category>
         <author>Mama Dolce's Food Distribution</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -849,7 +839,6 @@
         <description>Research department terminal from the Nuka-Cola plant documenting Quantum isotope testing and new product development.</description>
         <category>CorporateMemo</category>
         <author>Nuka-Cola Research Department</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -914,7 +903,6 @@
         <description>Marketing department terminal from the Nuka-Cola plant outlining the Quantum advertising campaign strategy.</description>
         <category>CorporateMemo</category>
         <author>Nuka-Cola Marketing Department</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -980,7 +968,6 @@
         <description>Packing line terminal from the Nuka-Cola plant with operator instructions and Quantum bottle weight issues.</description>
         <category>CorporateMemo</category>
         <author>Nuka-Cola Packing Department</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1034,7 +1021,6 @@
         <description>Shipping department terminal from the Nuka-Cola plant listing Quantum test site locations in the D.C. area.</description>
         <category>CorporateMemo</category>
         <author>Nuka-Cola Shipping Department</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1088,7 +1074,6 @@
         <description>RobCo production mainframe orientation guide for robot protocol operators managing Protectron units.</description>
         <category>TechnicalManual</category>
         <author>RobCo Industries</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1134,7 +1119,6 @@
         <description>Employee terminal from the Robot Repair Center with safety warnings and management memos.</description>
         <category>CorporateMemo</category>
         <author>Robot Repair Center Staff</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1187,7 +1171,6 @@
         <description>Hotel concierge terminal with guest incident and complaint reports.</description>
         <category>CorporateMemo</category>
         <author>Statesman Hotel Staff</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>
@@ -1267,7 +1250,6 @@
         <description>Restaurant terminal from the Statesman Hotel's Alfresco Lounge with operating hours and staff reminders.</description>
         <category>CorporateMemo</category>
         <author>Statesman Hotel Staff</author>
-        <datePreWar>2077</datePreWar>
         <entries>
             <li>
                 <entryNumber>1</entryNumber>

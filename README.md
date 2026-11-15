@@ -28,3 +28,10 @@ This mod must load after FCP - Tools. The load order is handled automatically th
 Created by Rick for the Fallout Collaboration Project
 
 I am accepting submissions for more lore accurate holotapes as well in my discord server! (I do apologize for any grammer and spelling issues Canon was not here to supervise this)
+
+
+Copyright (c) 2026 Ranger Rick. All Rights Reserved.
+
+No part of this mod (code, assets, textures, XML, or text) may be copied,
+modified, redistributed, or reuploaded without prior written permission
+from the author.
